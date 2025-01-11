@@ -5,6 +5,9 @@ import numpy as np
 import cv2
 
 def preprocess_frame(frame):
+    # Crop the bottom area (ground)
+    frame = frame[:400, :]  # Adjust 400 if needed to match exact ground position
+    
     # Convert to HSV
     hsv = cv2.cvtColor(frame, cv2.COLOR_RGB2HSV)
     
@@ -32,8 +35,8 @@ def preprocess_frame(frame):
     result = np.zeros_like(frame[:,:,0])
     result[objects_mask > 0] = 255
     
-    # Resize to 512x512
-    resized = cv2.resize(result, (512, 512), interpolation=cv2.INTER_AREA)
+    # Resize to 64x64
+    resized = cv2.resize(result, (64, 64), interpolation=cv2.INTER_AREA)
     return resized
 
 # Create the environment
