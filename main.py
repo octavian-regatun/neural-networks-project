@@ -4,6 +4,9 @@ import torch
 import numpy as np
 import cv2
 from agent import DQNAgent  # Add this import
+import matplotlib.pyplot as plt
+import os  # Add this import at the top
+from datetime import datetime
 
 def preprocess_frame(frame):
     # Crop the bottom area (ground)
@@ -41,65 +44,125 @@ def preprocess_frame(frame):
     normalized = resized.astype(np.float32) / 255.0  # Normalize to [0,1]
     return normalized
 
-# Create the environment
-env = gym.make('FlappyBird-v0', render_mode='rgb_array')
-observation, info = env.reset()
+def plot_training_stats(episode_rewards, epsilon_values, episodes, save=True):
+    # Plot rewards
+    plt.figure(figsize=(12, 5))
+    
+    plt.subplot(1, 2, 1)
+    plt.plot(range(len(episode_rewards)), episode_rewards)
+    plt.title(f'Training Rewards over {episodes} Episodes')
+    plt.xlabel('Episode')
+    plt.ylabel('Reward')
+    plt.grid(True)
+    
+    # Plot epsilon
+    plt.subplot(1, 2, 2)
+    plt.plot(range(0, len(epsilon_values) * 10, 10), epsilon_values, 'r-')
+    plt.title('Epsilon Decay')
+    plt.xlabel('Episode')
+    plt.ylabel('Epsilon')
+    plt.grid(True)
+    
+    plt.tight_layout()
+    if save:
+        plt.savefig('training_stats.png')
+    plt.close()
 
-# Create the agent
-state_shape = (64, 64)  # Preprocessed frame dimensions
-n_actions = 2  # Flap or do nothing
-agent = DQNAgent(state_shape, n_actions)
+def main():
+    # Create checkpoints directory if it doesn't exist
+    os.makedirs('checkpoints', exist_ok=True)
+    
+    # Add file logging setup with timestamp
+    log_file = open('training_log.txt', 'a')
+    start_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_file.write(f"\n\n=== New Training Session - {start_time} ===\n")
 
-# Training loop
-episode_rewards = []
-best_reward = float('-inf')
-
-for episode in range(10000):  # Number of episodes
+    # Create the environment
+    env = gym.make('FlappyBird-v0', render_mode='rgb_array')
     observation, info = env.reset()
-    episode_reward = 0
-    
-    while True:
-        frame = env.render()
-        processed_frame = preprocess_frame(frame)
-        
-        # Display preprocessed frame
-        display_frame = (processed_frame * 255).astype(np.uint8)  # Convert back to 0-255 range
-        display_frame = cv2.resize(display_frame, (256, 256), interpolation=cv2.INTER_NEAREST)
-        cv2.imshow('Preprocessed View', display_frame)
-        
-        # Break if 'q' is pressed
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
-        
-        # Select and perform action
-        action = agent.select_action(processed_frame)
-        observation, reward, terminated, truncated, info = env.step(action)
-        
-        # Modify reward according to our reward system
-        if terminated:
-            reward = -1.0
-        elif info.get('score', 0) > 0:
-            reward = 1.0
-        else:
-            reward = 0.1
-        
-        # Store transition and train
-        next_frame = preprocess_frame(env.render())
-        agent.memory.push(processed_frame, action, reward, next_frame, terminated)
-        agent.train()
-        
-        episode_reward += reward
-        
-        if terminated or truncated:
-            episode_rewards.append(episode_reward)
-            if episode_reward > best_reward:
-                best_reward = episode_reward
-                torch.save(agent.policy_net.state_dict(), 'best_model.pth')
-            break
-    
-    # Print progress
-    if episode % 100 == 0:
-        print(f"Episode {episode}, Avg Reward: {np.mean(episode_rewards[-100:]):.2f}, Epsilon: {agent.epsilon:.2f}")
 
-env.close()
-cv2.destroyAllWindows()
+    # Create the agent
+    state_shape = (64, 64)  # Preprocessed frame dimensions
+    n_actions = 2  # Flap or do nothing
+    agent = DQNAgent(state_shape, n_actions)
+
+    # Training loop
+    episode_rewards = []
+    epsilon_values = []
+    best_reward = float('-inf')
+
+    for episode in range(10000):  # Number of episodes
+        observation, info = env.reset()
+        episode_reward = 0
+        
+        while True:
+            frame = env.render()
+            processed_frame = preprocess_frame(frame)
+            
+            # # Display preprocessed frame
+            # display_frame = (processed_frame * 255).astype(np.uint8)  # Convert back to 0-255 range
+            # display_frame = cv2.resize(display_frame, (256, 256), interpolation=cv2.INTER_NEAREST)
+            # cv2.imshow('Preprocessed View', display_frame)
+            
+            # Break if 'q' is pressed
+            if cv2.waitKey(1) & 0xFF == ord('q'):
+                break
+            
+            # Select and perform action
+            action = agent.select_action(processed_frame)
+            observation, reward, terminated, truncated, info = env.step(action)
+            
+            # Modify reward according to our reward system
+            if terminated:
+                reward = -1.0
+            elif info.get('score', 0) > 0:
+                reward = 1.0
+            else:
+                reward = 0.1
+            
+            # Store transition and train
+            next_frame = preprocess_frame(env.render())
+            agent.memory.push(processed_frame, action, reward, next_frame, terminated)
+            agent.train()
+            
+            episode_reward += reward
+            
+            if terminated or truncated:
+                episode_rewards.append(episode_reward)
+                if episode_reward > best_reward:
+                    best_reward = episode_reward
+                    torch.save(agent.policy_net.state_dict(), 'checkpoints/best_model.pth')
+                
+                # Update checkpoint path
+                if episode % 100 == 0:
+                    checkpoint_path = f'checkpoints/model_checkpoint_ep{episode}.pth'
+                    torch.save(agent.policy_net.state_dict(), checkpoint_path)
+                    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                    log_file.write(f"[{timestamp}] Saved checkpoint at episode {episode}\n")
+                    log_file.flush()
+                break
+        
+        # Modify the printing and logging section
+        if episode % 10 == 0:
+            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            stats = f"[{timestamp}] Episode {episode}, Avg Reward: {np.mean(episode_rewards[-100:]):.2f}, Epsilon: {agent.epsilon:.5f}"
+            print(stats)
+            log_file.write(stats + '\n')
+            log_file.flush()  # Ensure immediate writing to file
+            epsilon_values.append(agent.epsilon)
+            plot_training_stats(episode_rewards, epsilon_values, episode + 1)
+
+        if episode_reward >= 50000:  # stop_on_reward
+            print(f"Reached reward threshold of 50000! Stopping training.")
+            torch.save(agent.policy_net.state_dict(), 'checkpoints/final_model.pth')
+            epsilon_values.append(agent.epsilon)
+            plot_training_stats(episode_rewards, epsilon_values, episode + 1)  # Final plot
+            break
+
+    # Add cleanup at the end
+    log_file.close()
+    env.close()
+    cv2.destroyAllWindows()
+
+if __name__ == "__main__":
+    main()

@@ -18,14 +18,14 @@ class DQNAgent:
         self.target_net.load_state_dict(self.policy_net.state_dict())
         
         # Training parameters
-        self.optimizer = optim.Adam(self.policy_net.parameters())
+        self.optimizer = optim.Adam(self.policy_net.parameters(), lr=0.00025)  # learning_rate_a
         self.memory = ReplayBuffer(100000)
-        self.batch_size = 32
-        self.gamma = 0.99
-        self.epsilon = 1.0
-        self.epsilon_min = 0.01
-        self.epsilon_decay = 0.995
-        self.target_update = 1000
+        self.batch_size = 64  # mini_batch_size
+        self.gamma = 0.99  # discount_factor_g
+        self.epsilon = 1.0  # epsilon_init
+        self.epsilon_min = 0.0001  # epsilon_min
+        self.epsilon_decay = 0.9997  # epsilon_decay
+        self.target_update = 1000  # network_sync_rate
         self.steps = 0
         
     def select_action(self, state):

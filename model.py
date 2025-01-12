@@ -3,7 +3,7 @@ import torch.nn as nn
 import numpy as np  # Add this import
 
 class DQN(nn.Module):
-    def __init__(self, input_shape, n_actions):
+    def __init__(self, input_shape, n_actions, fc1_nodes=512):
         super(DQN, self).__init__()
         
         self.conv = nn.Sequential(
@@ -18,7 +18,7 @@ class DQN(nn.Module):
         conv_out_size = self._get_conv_out(input_shape)
         
         self.fc = nn.Sequential(
-            nn.Linear(conv_out_size, 512),
+            nn.Linear(conv_out_size, fc1_nodes),  # fc1_nodes = 512
             nn.ReLU(),
             nn.Linear(512, 512),
             nn.ReLU(),
