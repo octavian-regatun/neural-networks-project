@@ -1,0 +1,1118 @@
+
+
+=== New Training Session ===
+Episode 0, Avg Reward: 3.90, Epsilon: 1.00000
+Episode 10, Avg Reward: 3.90, Epsilon: 0.86405
+Episode 20, Avg Reward: 3.90, Epsilon: 0.74368
+Episode 30, Avg Reward: 3.90, Epsilon: 0.64008
+
+
+=== New Training Session ===
+Saved checkpoint at episode 0
+Episode 0, Avg Reward: 3.90, Epsilon: 1.00000
+Episode 10, Avg Reward: 3.90, Epsilon: 0.86405
+Episode 20, Avg Reward: 3.90, Epsilon: 0.74368
+Episode 30, Avg Reward: 3.90, Epsilon: 0.64008
+
+
+=== New Training Session - 2025-01-12 03:39:58 ===
+[2025-01-12 03:39:59] Saved checkpoint at episode 0
+[2025-01-12 03:39:59] Episode 0, Avg Reward: 3.90, Epsilon: 1.00000
+[2025-01-12 03:40:06] Episode 10, Avg Reward: 3.90, Epsilon: 0.86405
+[2025-01-12 03:40:12] Episode 20, Avg Reward: 3.90, Epsilon: 0.74368
+[2025-01-12 03:40:18] Episode 30, Avg Reward: 3.90, Epsilon: 0.64008
+[2025-01-12 03:40:24] Episode 40, Avg Reward: 3.90, Epsilon: 0.55091
+[2025-01-12 03:40:29] Episode 50, Avg Reward: 3.90, Epsilon: 0.47416
+[2025-01-12 03:40:35] Episode 60, Avg Reward: 3.90, Epsilon: 0.40810
+[2025-01-12 03:40:41] Episode 70, Avg Reward: 3.90, Epsilon: 0.35125
+[2025-01-12 03:40:47] Episode 80, Avg Reward: 3.90, Epsilon: 0.30232
+[2025-01-12 03:40:53] Episode 90, Avg Reward: 3.90, Epsilon: 0.26020
+[2025-01-12 03:40:59] Saved checkpoint at episode 100
+[2025-01-12 03:40:59] Episode 100, Avg Reward: 3.90, Epsilon: 0.22395
+[2025-01-12 03:41:05] Episode 110, Avg Reward: 3.90, Epsilon: 0.19275
+[2025-01-12 03:41:11] Episode 120, Avg Reward: 3.90, Epsilon: 0.16590
+[2025-01-12 03:41:17] Episode 130, Avg Reward: 3.90, Epsilon: 0.14279
+[2025-01-12 03:41:24] Episode 140, Avg Reward: 3.90, Epsilon: 0.12290
+[2025-01-12 03:41:29] Episode 150, Avg Reward: 3.90, Epsilon: 0.10578
+[2025-01-12 03:41:36] Episode 160, Avg Reward: 3.90, Epsilon: 0.09104
+[2025-01-12 03:41:42] Episode 170, Avg Reward: 3.90, Epsilon: 0.07836
+[2025-01-12 03:41:48] Episode 180, Avg Reward: 3.90, Epsilon: 0.06744
+[2025-01-12 03:41:54] Episode 190, Avg Reward: 3.90, Epsilon: 0.05805
+[2025-01-12 03:42:00] Saved checkpoint at episode 200
+[2025-01-12 03:42:00] Episode 200, Avg Reward: 3.90, Epsilon: 0.04996
+[2025-01-12 03:42:07] Episode 210, Avg Reward: 3.90, Epsilon: 0.04300
+[2025-01-12 03:42:13] Episode 220, Avg Reward: 3.90, Epsilon: 0.03701
+[2025-01-12 03:42:19] Episode 230, Avg Reward: 3.90, Epsilon: 0.03185
+[2025-01-12 03:42:31] Episode 240, Avg Reward: 3.90, Epsilon: 0.02742
+[2025-01-12 03:42:38] Episode 250, Avg Reward: 3.90, Epsilon: 0.02360
+[2025-01-12 03:42:44] Episode 260, Avg Reward: 3.90, Epsilon: 0.02031
+[2025-01-12 03:42:51] Episode 270, Avg Reward: 3.90, Epsilon: 0.01748
+[2025-01-12 03:42:57] Episode 280, Avg Reward: 3.90, Epsilon: 0.01504
+[2025-01-12 03:43:03] Episode 290, Avg Reward: 3.90, Epsilon: 0.01295
+[2025-01-12 03:43:10] Saved checkpoint at episode 300
+[2025-01-12 03:43:10] Episode 300, Avg Reward: 3.90, Epsilon: 0.01114
+[2025-01-12 03:43:16] Episode 310, Avg Reward: 3.90, Epsilon: 0.00959
+[2025-01-12 03:43:22] Episode 320, Avg Reward: 3.90, Epsilon: 0.00826
+[2025-01-12 03:43:28] Episode 330, Avg Reward: 3.90, Epsilon: 0.00711
+[2025-01-12 03:43:35] Episode 340, Avg Reward: 3.90, Epsilon: 0.00612
+[2025-01-12 03:43:41] Episode 350, Avg Reward: 3.90, Epsilon: 0.00526
+[2025-01-12 03:43:48] Episode 360, Avg Reward: 3.90, Epsilon: 0.00453
+[2025-01-12 03:43:54] Episode 370, Avg Reward: 3.90, Epsilon: 0.00390
+[2025-01-12 03:44:00] Episode 380, Avg Reward: 3.90, Epsilon: 0.00336
+[2025-01-12 03:44:07] Episode 390, Avg Reward: 3.90, Epsilon: 0.00289
+[2025-01-12 03:44:13] Saved checkpoint at episode 400
+[2025-01-12 03:44:13] Episode 400, Avg Reward: 3.90, Epsilon: 0.00249
+[2025-01-12 03:44:20] Episode 410, Avg Reward: 3.90, Epsilon: 0.00214
+[2025-01-12 03:44:27] Episode 420, Avg Reward: 3.90, Epsilon: 0.00184
+[2025-01-12 03:44:34] Episode 430, Avg Reward: 3.90, Epsilon: 0.00159
+[2025-01-12 03:44:40] Episode 440, Avg Reward: 3.90, Epsilon: 0.00136
+[2025-01-12 03:44:46] Episode 450, Avg Reward: 3.90, Epsilon: 0.00117
+[2025-01-12 03:44:52] Episode 460, Avg Reward: 3.90, Epsilon: 0.00101
+[2025-01-12 03:44:59] Episode 470, Avg Reward: 3.90, Epsilon: 0.00087
+[2025-01-12 03:45:06] Episode 480, Avg Reward: 3.90, Epsilon: 0.00075
+[2025-01-12 03:45:12] Episode 490, Avg Reward: 3.90, Epsilon: 0.00064
+[2025-01-12 03:45:18] Saved checkpoint at episode 500
+[2025-01-12 03:45:18] Episode 500, Avg Reward: 3.90, Epsilon: 0.00055
+[2025-01-12 03:45:24] Episode 510, Avg Reward: 3.90, Epsilon: 0.00048
+[2025-01-12 03:45:31] Episode 520, Avg Reward: 3.90, Epsilon: 0.00041
+[2025-01-12 03:45:37] Episode 530, Avg Reward: 3.90, Epsilon: 0.00035
+[2025-01-12 03:45:43] Episode 540, Avg Reward: 3.90, Epsilon: 0.00030
+[2025-01-12 03:45:50] Episode 550, Avg Reward: 3.90, Epsilon: 0.00026
+[2025-01-12 03:45:56] Episode 560, Avg Reward: 3.90, Epsilon: 0.00023
+[2025-01-12 03:46:02] Episode 570, Avg Reward: 3.90, Epsilon: 0.00019
+[2025-01-12 03:46:09] Episode 580, Avg Reward: 3.90, Epsilon: 0.00017
+[2025-01-12 03:46:15] Episode 590, Avg Reward: 3.90, Epsilon: 0.00014
+[2025-01-12 03:46:22] Saved checkpoint at episode 600
+[2025-01-12 03:46:22] Episode 600, Avg Reward: 3.90, Epsilon: 0.00012
+[2025-01-12 03:46:28] Episode 610, Avg Reward: 3.90, Epsilon: 0.00011
+[2025-01-12 03:46:35] Episode 620, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:46:41] Episode 630, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:46:48] Episode 640, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:46:55] Episode 650, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:01] Episode 660, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:07] Episode 670, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:13] Episode 680, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:19] Episode 690, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:26] Saved checkpoint at episode 700
+[2025-01-12 03:47:26] Episode 700, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:32] Episode 710, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:39] Episode 720, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:46] Episode 730, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:52] Episode 740, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:47:59] Episode 750, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:05] Episode 760, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:11] Episode 770, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:18] Episode 780, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:24] Episode 790, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:31] Saved checkpoint at episode 800
+[2025-01-12 03:48:31] Episode 800, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:37] Episode 810, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:43] Episode 820, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:49] Episode 830, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:48:56] Episode 840, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:02] Episode 850, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:08] Episode 860, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:14] Episode 870, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:21] Episode 880, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:27] Episode 890, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:33] Saved checkpoint at episode 900
+[2025-01-12 03:49:33] Episode 900, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:40] Episode 910, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:45] Episode 920, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:52] Episode 930, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:49:58] Episode 940, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:03] Episode 950, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:09] Episode 960, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:15] Episode 970, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:21] Episode 980, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:26] Episode 990, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:33] Saved checkpoint at episode 1000
+[2025-01-12 03:50:33] Episode 1000, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:39] Episode 1010, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:45] Episode 1020, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:52] Episode 1030, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:50:58] Episode 1040, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:04] Episode 1050, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:10] Episode 1060, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:16] Episode 1070, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:22] Episode 1080, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:29] Episode 1090, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:36] Saved checkpoint at episode 1100
+[2025-01-12 03:51:36] Episode 1100, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:43] Episode 1110, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:49] Episode 1120, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:51:56] Episode 1130, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:02] Episode 1140, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:08] Episode 1150, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:14] Episode 1160, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:21] Episode 1170, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:27] Episode 1180, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:33] Episode 1190, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:40] Saved checkpoint at episode 1200
+[2025-01-12 03:52:40] Episode 1200, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:46] Episode 1210, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:52] Episode 1220, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:52:58] Episode 1230, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:05] Episode 1240, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:11] Episode 1250, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:17] Episode 1260, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:23] Episode 1270, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:30] Episode 1280, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:36] Episode 1290, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:42] Saved checkpoint at episode 1300
+[2025-01-12 03:53:42] Episode 1300, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:48] Episode 1310, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:53:54] Episode 1320, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:01] Episode 1330, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:07] Episode 1340, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:13] Episode 1350, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:19] Episode 1360, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:25] Episode 1370, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:31] Episode 1380, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:38] Episode 1390, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:45] Saved checkpoint at episode 1400
+[2025-01-12 03:54:45] Episode 1400, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:51] Episode 1410, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:54:58] Episode 1420, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:05] Episode 1430, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:11] Episode 1440, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:17] Episode 1450, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:23] Episode 1460, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:30] Episode 1470, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:36] Episode 1480, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:43] Episode 1490, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:49] Saved checkpoint at episode 1500
+[2025-01-12 03:55:49] Episode 1500, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:55:56] Episode 1510, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:02] Episode 1520, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:09] Episode 1530, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:16] Episode 1540, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:23] Episode 1550, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:29] Episode 1560, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:35] Episode 1570, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:42] Episode 1580, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:48] Episode 1590, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:56:54] Saved checkpoint at episode 1600
+[2025-01-12 03:56:54] Episode 1600, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:01] Episode 1610, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:07] Episode 1620, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:14] Episode 1630, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:20] Episode 1640, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:26] Episode 1650, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:33] Episode 1660, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:39] Episode 1670, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:45] Episode 1680, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:51] Episode 1690, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:57:57] Saved checkpoint at episode 1700
+[2025-01-12 03:57:57] Episode 1700, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:03] Episode 1710, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:10] Episode 1720, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:16] Episode 1730, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:23] Episode 1740, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:30] Episode 1750, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:37] Episode 1760, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:43] Episode 1770, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:50] Episode 1780, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:58:57] Episode 1790, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:04] Saved checkpoint at episode 1800
+[2025-01-12 03:59:04] Episode 1800, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:10] Episode 1810, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:16] Episode 1820, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:22] Episode 1830, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:29] Episode 1840, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:35] Episode 1850, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:42] Episode 1860, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:49] Episode 1870, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 03:59:56] Episode 1880, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:03] Episode 1890, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:10] Saved checkpoint at episode 1900
+[2025-01-12 04:00:10] Episode 1900, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:16] Episode 1910, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:23] Episode 1920, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:30] Episode 1930, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:37] Episode 1940, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:43] Episode 1950, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:49] Episode 1960, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:00:56] Episode 1970, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:03] Episode 1980, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:09] Episode 1990, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:16] Saved checkpoint at episode 2000
+[2025-01-12 04:01:16] Episode 2000, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:23] Episode 2010, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:29] Episode 2020, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:36] Episode 2030, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:43] Episode 2040, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:50] Episode 2050, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:01:56] Episode 2060, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:02] Episode 2070, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:08] Episode 2080, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:14] Episode 2090, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:20] Saved checkpoint at episode 2100
+[2025-01-12 04:02:20] Episode 2100, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:26] Episode 2110, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:32] Episode 2120, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:39] Episode 2130, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:45] Episode 2140, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:52] Episode 2150, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:02:59] Episode 2160, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:05] Episode 2170, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:11] Episode 2180, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:18] Episode 2190, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:24] Saved checkpoint at episode 2200
+[2025-01-12 04:03:24] Episode 2200, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:31] Episode 2210, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:38] Episode 2220, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:45] Episode 2230, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:52] Episode 2240, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:03:59] Episode 2250, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:04:06] Episode 2260, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:04:12] Episode 2270, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:04:19] Episode 2280, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:04:24] Episode 2290, Avg Reward: 3.90, Epsilon: 0.00010
+[2025-01-12 04:04:31] Saved checkpoint at episode 2300
+[2025-01-12 04:04:31] Episode 2300, Avg Reward: 3.91, Epsilon: 0.00010
+[2025-01-12 04:04:37] Episode 2310, Avg Reward: 3.91, Epsilon: 0.00010
+[2025-01-12 04:04:43] Episode 2320, Avg Reward: 3.92, Epsilon: 0.00010
+[2025-01-12 04:04:50] Episode 2330, Avg Reward: 3.93, Epsilon: 0.00010
+[2025-01-12 04:04:56] Episode 2340, Avg Reward: 3.94, Epsilon: 0.00010
+[2025-01-12 04:05:03] Episode 2350, Avg Reward: 3.94, Epsilon: 0.00010
+[2025-01-12 04:05:09] Episode 2360, Avg Reward: 3.94, Epsilon: 0.00010
+[2025-01-12 04:05:16] Episode 2370, Avg Reward: 3.95, Epsilon: 0.00010
+[2025-01-12 04:05:22] Episode 2380, Avg Reward: 3.95, Epsilon: 0.00010
+[2025-01-12 04:05:28] Episode 2390, Avg Reward: 3.95, Epsilon: 0.00010
+[2025-01-12 04:05:34] Saved checkpoint at episode 2400
+[2025-01-12 04:05:34] Episode 2400, Avg Reward: 3.95, Epsilon: 0.00010
+[2025-01-12 04:05:40] Episode 2410, Avg Reward: 3.95, Epsilon: 0.00010
+[2025-01-12 04:05:46] Episode 2420, Avg Reward: 3.94, Epsilon: 0.00010
+[2025-01-12 04:05:53] Episode 2430, Avg Reward: 3.93, Epsilon: 0.00010
+[2025-01-12 04:06:00] Episode 2440, Avg Reward: 3.92, Epsilon: 0.00010
+[2025-01-12 04:06:07] Episode 2450, Avg Reward: 3.93, Epsilon: 0.00010
+[2025-01-12 04:06:13] Episode 2460, Avg Reward: 4.02, Epsilon: 0.00010
+[2025-01-12 04:06:20] Episode 2470, Avg Reward: 4.07, Epsilon: 0.00010
+[2025-01-12 04:06:26] Episode 2480, Avg Reward: 4.07, Epsilon: 0.00010
+[2025-01-12 04:06:33] Episode 2490, Avg Reward: 4.17, Epsilon: 0.00010
+[2025-01-12 04:06:39] Saved checkpoint at episode 2500
+[2025-01-12 04:06:39] Episode 2500, Avg Reward: 4.17, Epsilon: 0.00010
+[2025-01-12 04:06:46] Episode 2510, Avg Reward: 4.17, Epsilon: 0.00010
+[2025-01-12 04:06:52] Episode 2520, Avg Reward: 4.18, Epsilon: 0.00010
+[2025-01-12 04:06:59] Episode 2530, Avg Reward: 4.52, Epsilon: 0.00010
+[2025-01-12 04:07:06] Episode 2540, Avg Reward: 4.60, Epsilon: 0.00010
+[2025-01-12 04:07:12] Episode 2550, Avg Reward: 4.65, Epsilon: 0.00010
+[2025-01-12 04:07:19] Episode 2560, Avg Reward: 5.25, Epsilon: 0.00010
+[2025-01-12 04:07:26] Episode 2570, Avg Reward: 5.49, Epsilon: 0.00010
+[2025-01-12 04:07:33] Episode 2580, Avg Reward: 5.55, Epsilon: 0.00010
+[2025-01-12 04:07:41] Episode 2590, Avg Reward: 5.72, Epsilon: 0.00010
+[2025-01-12 04:07:49] Saved checkpoint at episode 2600
+[2025-01-12 04:07:49] Episode 2600, Avg Reward: 6.00, Epsilon: 0.00010
+[2025-01-12 04:07:55] Episode 2610, Avg Reward: 6.24, Epsilon: 0.00010
+[2025-01-12 04:08:02] Episode 2620, Avg Reward: 6.55, Epsilon: 0.00010
+[2025-01-12 04:08:09] Episode 2630, Avg Reward: 6.57, Epsilon: 0.00010
+[2025-01-12 04:08:16] Episode 2640, Avg Reward: 7.13, Epsilon: 0.00010
+[2025-01-12 04:08:23] Episode 2650, Avg Reward: 7.12, Epsilon: 0.00010
+[2025-01-12 04:08:30] Episode 2660, Avg Reward: 6.48, Epsilon: 0.00010
+[2025-01-12 04:08:37] Episode 2670, Avg Reward: 6.52, Epsilon: 0.00010
+[2025-01-12 04:08:44] Episode 2680, Avg Reward: 6.47, Epsilon: 0.00010
+[2025-01-12 04:08:51] Episode 2690, Avg Reward: 6.47, Epsilon: 0.00010
+[2025-01-12 04:08:59] Saved checkpoint at episode 2700
+[2025-01-12 04:08:59] Episode 2700, Avg Reward: 6.50, Epsilon: 0.00010
+[2025-01-12 04:09:07] Episode 2710, Avg Reward: 7.40, Epsilon: 0.00010
+[2025-01-12 04:09:15] Episode 2720, Avg Reward: 7.38, Epsilon: 0.00010
+[2025-01-12 04:09:23] Episode 2730, Avg Reward: 8.32, Epsilon: 0.00010
+[2025-01-12 04:09:30] Episode 2740, Avg Reward: 7.78, Epsilon: 0.00010
+[2025-01-12 04:09:36] Episode 2750, Avg Reward: 7.72, Epsilon: 0.00010
+[2025-01-12 04:09:42] Episode 2760, Avg Reward: 7.69, Epsilon: 0.00010
+[2025-01-12 04:09:50] Episode 2770, Avg Reward: 8.33, Epsilon: 0.00010
+[2025-01-12 04:09:57] Episode 2780, Avg Reward: 8.61, Epsilon: 0.00010
+[2025-01-12 04:10:05] Episode 2790, Avg Reward: 9.42, Epsilon: 0.00010
+[2025-01-12 04:10:12] Saved checkpoint at episode 2800
+[2025-01-12 04:10:12] Episode 2800, Avg Reward: 9.66, Epsilon: 0.00010
+[2025-01-12 04:10:21] Episode 2810, Avg Reward: 10.39, Epsilon: 0.00010
+[2025-01-12 04:10:29] Episode 2820, Avg Reward: 11.45, Epsilon: 0.00010
+[2025-01-12 04:10:40] Episode 2830, Avg Reward: 12.31, Epsilon: 0.00010
+[2025-01-12 04:10:50] Episode 2840, Avg Reward: 14.29, Epsilon: 0.00010
+[2025-01-12 04:10:58] Episode 2850, Avg Reward: 15.36, Epsilon: 0.00010
+[2025-01-12 04:11:06] Episode 2860, Avg Reward: 17.22, Epsilon: 0.00010
+[2025-01-12 04:11:16] Episode 2870, Avg Reward: 18.67, Epsilon: 0.00010
+[2025-01-12 04:11:25] Episode 2880, Avg Reward: 20.66, Epsilon: 0.00010
+[2025-01-12 04:11:34] Episode 2890, Avg Reward: 20.76, Epsilon: 0.00010
+[2025-01-12 04:11:43] Saved checkpoint at episode 2900
+[2025-01-12 04:11:43] Episode 2900, Avg Reward: 21.71, Epsilon: 0.00010
+[2025-01-12 04:11:53] Episode 2910, Avg Reward: 21.49, Epsilon: 0.00010
+[2025-01-12 04:12:02] Episode 2920, Avg Reward: 22.20, Epsilon: 0.00010
+[2025-01-12 04:12:14] Episode 2930, Avg Reward: 24.60, Epsilon: 0.00010
+[2025-01-12 04:12:23] Episode 2940, Avg Reward: 24.80, Epsilon: 0.00010
+[2025-01-12 04:12:33] Episode 2950, Avg Reward: 25.50, Epsilon: 0.00010
+[2025-01-12 04:12:46] Episode 2960, Avg Reward: 28.43, Epsilon: 0.00010
+[2025-01-12 04:12:55] Episode 2970, Avg Reward: 28.24, Epsilon: 0.00010
+[2025-01-12 04:13:07] Episode 2980, Avg Reward: 30.06, Epsilon: 0.00010
+[2025-01-12 04:13:23] Episode 2990, Avg Reward: 35.73, Epsilon: 0.00010
+[2025-01-12 04:13:36] Saved checkpoint at episode 3000
+[2025-01-12 04:13:36] Episode 3000, Avg Reward: 39.22, Epsilon: 0.00010
+[2025-01-12 04:13:45] Episode 3010, Avg Reward: 39.96, Epsilon: 0.00010
+[2025-01-12 04:13:54] Episode 3020, Avg Reward: 39.35, Epsilon: 0.00010
+[2025-01-12 04:14:02] Episode 3030, Avg Reward: 36.21, Epsilon: 0.00010
+[2025-01-12 04:14:10] Episode 3040, Avg Reward: 34.98, Epsilon: 0.00010
+[2025-01-12 04:14:19] Episode 3050, Avg Reward: 34.32, Epsilon: 0.00010
+[2025-01-12 04:14:36] Episode 3060, Avg Reward: 37.96, Epsilon: 0.00010
+[2025-01-12 04:14:50] Episode 3070, Avg Reward: 40.86, Epsilon: 0.00010
+[2025-01-12 04:15:03] Episode 3080, Avg Reward: 40.99, Epsilon: 0.00010
+[2025-01-12 04:15:17] Episode 3090, Avg Reward: 40.29, Epsilon: 0.00010
+[2025-01-12 04:15:33] Saved checkpoint at episode 3100
+[2025-01-12 04:15:33] Episode 3100, Avg Reward: 43.30, Epsilon: 0.00010
+[2025-01-12 04:15:47] Episode 3110, Avg Reward: 45.57, Epsilon: 0.00010
+[2025-01-12 04:15:56] Episode 3120, Avg Reward: 46.10, Epsilon: 0.00010
+[2025-01-12 04:16:09] Episode 3130, Avg Reward: 49.95, Epsilon: 0.00010
+[2025-01-12 04:16:17] Episode 3140, Avg Reward: 50.53, Epsilon: 0.00010
+[2025-01-12 04:16:29] Episode 3150, Avg Reward: 53.69, Epsilon: 0.00010
+[2025-01-12 04:16:45] Episode 3160, Avg Reward: 51.49, Epsilon: 0.00010
+[2025-01-12 04:16:54] Episode 3170, Avg Reward: 48.17, Epsilon: 0.00010
+[2025-01-12 04:17:11] Episode 3180, Avg Reward: 51.88, Epsilon: 0.00010
+[2025-01-12 04:17:20] Episode 3190, Avg Reward: 47.09, Epsilon: 0.00010
+[2025-01-12 04:17:28] Saved checkpoint at episode 3200
+[2025-01-12 04:17:28] Episode 3200, Avg Reward: 40.32, Epsilon: 0.00010
+[2025-01-12 04:17:38] Episode 3210, Avg Reward: 38.33, Epsilon: 0.00010
+[2025-01-12 04:17:48] Episode 3220, Avg Reward: 39.11, Epsilon: 0.00010
+[2025-01-12 04:18:03] Episode 3230, Avg Reward: 39.96, Epsilon: 0.00010
+[2025-01-12 04:18:14] Episode 3240, Avg Reward: 42.65, Epsilon: 0.00010
+[2025-01-12 04:18:27] Episode 3250, Avg Reward: 43.17, Epsilon: 0.00010
+[2025-01-12 04:18:44] Episode 3260, Avg Reward: 44.38, Epsilon: 0.00010
+[2025-01-12 04:19:00] Episode 3270, Avg Reward: 48.86, Epsilon: 0.00010
+[2025-01-12 04:19:13] Episode 3280, Avg Reward: 46.86, Epsilon: 0.00010
+[2025-01-12 04:19:27] Episode 3290, Avg Reward: 50.55, Epsilon: 0.00010
+[2025-01-12 04:19:44] Saved checkpoint at episode 3300
+[2025-01-12 04:19:44] Episode 3300, Avg Reward: 56.83, Epsilon: 0.00010
+[2025-01-12 04:19:58] Episode 3310, Avg Reward: 59.48, Epsilon: 0.00010
+[2025-01-12 04:20:21] Episode 3320, Avg Reward: 70.60, Epsilon: 0.00010
+[2025-01-12 04:20:41] Episode 3330, Avg Reward: 74.79, Epsilon: 0.00010
+[2025-01-12 04:21:00] Episode 3340, Avg Reward: 80.11, Epsilon: 0.00010
+[2025-01-12 04:21:15] Episode 3350, Avg Reward: 80.95, Epsilon: 0.00010
+[2025-01-12 04:21:26] Episode 3360, Avg Reward: 76.88, Epsilon: 0.00010
+[2025-01-12 04:21:39] Episode 3370, Avg Reward: 75.88, Epsilon: 0.00010
+[2025-01-12 04:21:51] Episode 3380, Avg Reward: 73.65, Epsilon: 0.00010
+[2025-01-12 04:22:04] Episode 3390, Avg Reward: 73.99, Epsilon: 0.00010
+[2025-01-12 04:22:20] Saved checkpoint at episode 3400
+[2025-01-12 04:22:20] Episode 3400, Avg Reward: 74.41, Epsilon: 0.00010
+[2025-01-12 04:22:30] Episode 3410, Avg Reward: 72.04, Epsilon: 0.00010
+[2025-01-12 04:22:41] Episode 3420, Avg Reward: 60.81, Epsilon: 0.00010
+[2025-01-12 04:23:01] Episode 3430, Avg Reward: 59.57, Epsilon: 0.00010
+[2025-01-12 04:23:19] Episode 3440, Avg Reward: 58.94, Epsilon: 0.00010
+[2025-01-12 04:23:37] Episode 3450, Avg Reward: 62.27, Epsilon: 0.00010
+[2025-01-12 04:24:00] Episode 3460, Avg Reward: 71.30, Epsilon: 0.00010
+[2025-01-12 04:24:13] Episode 3470, Avg Reward: 71.26, Epsilon: 0.00010
+[2025-01-12 04:24:32] Episode 3480, Avg Reward: 76.96, Epsilon: 0.00010
+[2025-01-12 04:24:47] Episode 3490, Avg Reward: 78.19, Epsilon: 0.00010
+[2025-01-12 04:25:03] Saved checkpoint at episode 3500
+[2025-01-12 04:25:03] Episode 3500, Avg Reward: 76.66, Epsilon: 0.00010
+[2025-01-12 04:25:13] Episode 3510, Avg Reward: 76.42, Epsilon: 0.00010
+[2025-01-12 04:25:24] Episode 3520, Avg Reward: 76.63, Epsilon: 0.00010
+[2025-01-12 04:25:34] Episode 3530, Avg Reward: 70.70, Epsilon: 0.00010
+[2025-01-12 04:25:43] Episode 3540, Avg Reward: 63.08, Epsilon: 0.00010
+[2025-01-12 04:25:52] Episode 3550, Avg Reward: 55.92, Epsilon: 0.00010
+[2025-01-12 04:26:05] Episode 3560, Avg Reward: 48.82, Epsilon: 0.00010
+[2025-01-12 04:26:20] Episode 3570, Avg Reward: 51.01, Epsilon: 0.00010
+[2025-01-12 04:26:43] Episode 3580, Avg Reward: 53.73, Epsilon: 0.00010
+[2025-01-12 04:27:09] Episode 3590, Avg Reward: 62.73, Epsilon: 0.00010
+[2025-01-12 04:27:27] Saved checkpoint at episode 3600
+[2025-01-12 04:27:27] Episode 3600, Avg Reward: 65.34, Epsilon: 0.00010
+[2025-01-12 04:27:44] Episode 3610, Avg Reward: 69.91, Epsilon: 0.00010
+[2025-01-12 04:28:08] Episode 3620, Avg Reward: 80.42, Epsilon: 0.00010
+[2025-01-12 04:28:19] Episode 3630, Avg Reward: 81.10, Epsilon: 0.00010
+[2025-01-12 04:28:32] Episode 3640, Avg Reward: 84.89, Epsilon: 0.00010
+[2025-01-12 04:28:42] Episode 3650, Avg Reward: 85.21, Epsilon: 0.00010
+[2025-01-12 04:28:57] Episode 3660, Avg Reward: 85.89, Epsilon: 0.00010
+[2025-01-12 04:29:09] Episode 3670, Avg Reward: 82.10, Epsilon: 0.00010
+[2025-01-12 04:29:21] Episode 3680, Avg Reward: 74.32, Epsilon: 0.00010
+[2025-01-12 04:29:42] Episode 3690, Avg Reward: 70.32, Epsilon: 0.00010
+[2025-01-12 04:30:00] Saved checkpoint at episode 3700
+[2025-01-12 04:30:00] Episode 3700, Avg Reward: 71.08, Epsilon: 0.00010
+[2025-01-12 04:30:16] Episode 3710, Avg Reward: 71.34, Epsilon: 0.00010
+[2025-01-12 04:30:34] Episode 3720, Avg Reward: 66.58, Epsilon: 0.00010
+[2025-01-12 04:30:46] Episode 3730, Avg Reward: 66.68, Epsilon: 0.00010
+[2025-01-12 04:31:01] Episode 3740, Avg Reward: 67.19, Epsilon: 0.00010
+[2025-01-12 04:31:18] Episode 3750, Avg Reward: 72.96, Epsilon: 0.00010
+[2025-01-12 04:31:29] Episode 3760, Avg Reward: 70.66, Epsilon: 0.00010
+[2025-01-12 04:31:46] Episode 3770, Avg Reward: 73.89, Epsilon: 0.00010
+[2025-01-12 04:32:03] Episode 3780, Avg Reward: 77.07, Epsilon: 0.00010
+[2025-01-12 04:32:17] Episode 3790, Avg Reward: 70.61, Epsilon: 0.00010
+[2025-01-12 04:32:47] Saved checkpoint at episode 3800
+[2025-01-12 04:32:47] Episode 3800, Avg Reward: 79.45, Epsilon: 0.00010
+[2025-01-12 04:33:13] Episode 3810, Avg Reward: 87.33, Epsilon: 0.00010
+[2025-01-12 04:33:22] Episode 3820, Avg Reward: 79.82, Epsilon: 0.00010
+[2025-01-12 04:33:40] Episode 3830, Avg Reward: 86.11, Epsilon: 0.00010
+[2025-01-12 04:33:56] Episode 3840, Avg Reward: 88.39, Epsilon: 0.00010
+[2025-01-12 04:34:14] Episode 3850, Avg Reward: 90.69, Epsilon: 0.00010
+[2025-01-12 04:34:34] Episode 3860, Avg Reward: 97.43, Epsilon: 0.00010
+[2025-01-12 04:34:46] Episode 3870, Avg Reward: 93.83, Epsilon: 0.00010
+[2025-01-12 04:34:58] Episode 3880, Avg Reward: 89.75, Epsilon: 0.00010
+[2025-01-12 04:35:10] Episode 3890, Avg Reward: 88.77, Epsilon: 0.00010
+[2025-01-12 04:35:24] Saved checkpoint at episode 3900
+[2025-01-12 04:35:24] Episode 3900, Avg Reward: 76.66, Epsilon: 0.00010
+[2025-01-12 04:35:39] Episode 3910, Avg Reward: 66.69, Epsilon: 0.00010
+[2025-01-12 04:36:00] Episode 3920, Avg Reward: 77.08, Epsilon: 0.00010
+[2025-01-12 04:36:16] Episode 3930, Avg Reward: 74.08, Epsilon: 0.00010
+[2025-01-12 04:36:30] Episode 3940, Avg Reward: 72.30, Epsilon: 0.00010
+[2025-01-12 04:36:47] Episode 3950, Avg Reward: 70.33, Epsilon: 0.00010
+[2025-01-12 04:37:02] Episode 3960, Avg Reward: 66.46, Epsilon: 0.00010
+[2025-01-12 04:37:24] Episode 3970, Avg Reward: 74.78, Epsilon: 0.00010
+[2025-01-12 04:37:37] Episode 3980, Avg Reward: 76.27, Epsilon: 0.00010
+[2025-01-12 04:37:52] Episode 3990, Avg Reward: 79.68, Epsilon: 0.00010
+[2025-01-12 04:38:20] Saved checkpoint at episode 4000
+[2025-01-12 04:38:20] Episode 4000, Avg Reward: 91.14, Epsilon: 0.00010
+[2025-01-12 04:38:36] Episode 4010, Avg Reward: 92.76, Epsilon: 0.00010
+[2025-01-12 04:38:56] Episode 4020, Avg Reward: 91.02, Epsilon: 0.00010
+[2025-01-12 04:39:12] Episode 4030, Avg Reward: 91.44, Epsilon: 0.00010
+[2025-01-12 04:39:26] Episode 4040, Avg Reward: 91.17, Epsilon: 0.00010
+[2025-01-12 04:39:44] Episode 4050, Avg Reward: 91.41, Epsilon: 0.00010
+[2025-01-12 04:40:10] Episode 4060, Avg Reward: 101.02, Epsilon: 0.00010
+[2025-01-12 04:40:34] Episode 4070, Avg Reward: 103.76, Epsilon: 0.00010
+[2025-01-12 04:40:49] Episode 4080, Avg Reward: 105.28, Epsilon: 0.00010
+[2025-01-12 04:41:02] Episode 4090, Avg Reward: 101.93, Epsilon: 0.00010
+[2025-01-12 04:41:16] Saved checkpoint at episode 4100
+[2025-01-12 04:41:16] Episode 4100, Avg Reward: 90.10, Epsilon: 0.00010
+[2025-01-12 04:41:37] Episode 4110, Avg Reward: 94.71, Epsilon: 0.00010
+[2025-01-12 04:41:47] Episode 4120, Avg Reward: 87.58, Epsilon: 0.00010
+[2025-01-12 04:42:02] Episode 4130, Avg Reward: 87.60, Epsilon: 0.00010
+[2025-01-12 04:42:24] Episode 4140, Avg Reward: 94.27, Epsilon: 0.00010
+[2025-01-12 04:42:47] Episode 4150, Avg Reward: 98.84, Epsilon: 0.00010
+[2025-01-12 04:43:04] Episode 4160, Avg Reward: 90.23, Epsilon: 0.00010
+[2025-01-12 04:43:21] Episode 4170, Avg Reward: 84.89, Epsilon: 0.00010
+[2025-01-12 04:43:37] Episode 4180, Avg Reward: 85.33, Epsilon: 0.00010
+[2025-01-12 04:43:54] Episode 4190, Avg Reward: 89.07, Epsilon: 0.00010
+[2025-01-12 04:44:07] Saved checkpoint at episode 4200
+[2025-01-12 04:44:07] Episode 4200, Avg Reward: 86.76, Epsilon: 0.00010
+[2025-01-12 04:44:22] Episode 4210, Avg Reward: 80.85, Epsilon: 0.00010
+[2025-01-12 04:44:44] Episode 4220, Avg Reward: 90.38, Epsilon: 0.00010
+[2025-01-12 04:45:00] Episode 4230, Avg Reward: 89.70, Epsilon: 0.00010
+[2025-01-12 04:45:14] Episode 4240, Avg Reward: 83.02, Epsilon: 0.00010
+[2025-01-12 04:45:26] Episode 4250, Avg Reward: 74.28, Epsilon: 0.00010
+[2025-01-12 04:45:46] Episode 4260, Avg Reward: 77.80, Epsilon: 0.00010
+[2025-01-12 04:46:07] Episode 4270, Avg Reward: 81.30, Epsilon: 0.00010
+[2025-01-12 04:46:21] Episode 4280, Avg Reward: 80.44, Epsilon: 0.00010
+[2025-01-12 04:46:37] Episode 4290, Avg Reward: 80.35, Epsilon: 0.00010
+[2025-01-12 04:46:57] Saved checkpoint at episode 4300
+[2025-01-12 04:46:57] Episode 4300, Avg Reward: 86.69, Epsilon: 0.00010
+[2025-01-12 04:47:20] Episode 4310, Avg Reward: 94.55, Epsilon: 0.00010
+[2025-01-12 04:47:37] Episode 4320, Avg Reward: 90.45, Epsilon: 0.00010
+[2025-01-12 04:47:57] Episode 4330, Avg Reward: 94.91, Epsilon: 0.00010
+[2025-01-12 04:48:15] Episode 4340, Avg Reward: 97.67, Epsilon: 0.00010
+[2025-01-12 04:48:26] Episode 4350, Avg Reward: 97.31, Epsilon: 0.00010
+[2025-01-12 04:48:50] Episode 4360, Avg Reward: 99.39, Epsilon: 0.00010
+[2025-01-12 04:49:12] Episode 4370, Avg Reward: 99.37, Epsilon: 0.00010
+[2025-01-12 04:49:36] Episode 4380, Avg Reward: 107.20, Epsilon: 0.00010
+[2025-01-12 04:49:53] Episode 4390, Avg Reward: 108.69, Epsilon: 0.00010
+[2025-01-12 04:50:26] Saved checkpoint at episode 4400
+[2025-01-12 04:50:26] Episode 4400, Avg Reward: 121.00, Epsilon: 0.00010
+[2025-01-12 04:50:53] Episode 4410, Avg Reward: 122.56, Epsilon: 0.00010
+[2025-01-12 04:51:03] Episode 4420, Avg Reward: 117.34, Epsilon: 0.00010
+[2025-01-12 04:51:19] Episode 4430, Avg Reward: 114.45, Epsilon: 0.00010
+[2025-01-12 04:51:39] Episode 4440, Avg Reward: 115.74, Epsilon: 0.00010
+[2025-01-12 04:52:00] Episode 4450, Avg Reward: 122.51, Epsilon: 0.00010
+[2025-01-12 04:52:13] Episode 4460, Avg Reward: 115.33, Epsilon: 0.00010
+[2025-01-12 04:52:30] Episode 4470, Avg Reward: 110.58, Epsilon: 0.00010
+[2025-01-12 04:52:46] Episode 4480, Avg Reward: 104.28, Epsilon: 0.00010
+[2025-01-12 04:53:05] Episode 4490, Avg Reward: 104.25, Epsilon: 0.00010
+[2025-01-12 04:53:23] Saved checkpoint at episode 4500
+[2025-01-12 04:53:23] Episode 4500, Avg Reward: 90.37, Epsilon: 0.00010
+[2025-01-12 04:54:05] Episode 4510, Avg Reward: 105.97, Epsilon: 0.00010
+[2025-01-12 04:54:22] Episode 4520, Avg Reward: 111.97, Epsilon: 0.00010
+[2025-01-12 04:54:48] Episode 4530, Avg Reward: 118.05, Epsilon: 0.00010
+[2025-01-12 04:55:11] Episode 4540, Avg Reward: 120.86, Epsilon: 0.00010
+[2025-01-12 04:55:27] Episode 4550, Avg Reward: 118.10, Epsilon: 0.00010
+[2025-01-12 04:55:51] Episode 4560, Avg Reward: 125.60, Epsilon: 0.00010
+[2025-01-12 04:56:17] Episode 4570, Avg Reward: 134.65, Epsilon: 0.00010
+[2025-01-12 04:56:38] Episode 4580, Avg Reward: 138.54, Epsilon: 0.00010
+[2025-01-12 04:57:04] Episode 4590, Avg Reward: 144.59, Epsilon: 0.00010
+[2025-01-12 04:57:23] Saved checkpoint at episode 4600
+[2025-01-12 04:57:23] Episode 4600, Avg Reward: 145.41, Epsilon: 0.00010
+[2025-01-12 04:57:49] Episode 4610, Avg Reward: 131.46, Epsilon: 0.00010
+[2025-01-12 04:58:11] Episode 4620, Avg Reward: 135.63, Epsilon: 0.00010
+[2025-01-12 04:58:44] Episode 4630, Avg Reward: 142.76, Epsilon: 0.00010
+[2025-01-12 04:59:13] Episode 4640, Avg Reward: 148.27, Epsilon: 0.00010
+[2025-01-12 04:59:38] Episode 4650, Avg Reward: 154.80, Epsilon: 0.00010
+[2025-01-12 05:00:08] Episode 4660, Avg Reward: 160.16, Epsilon: 0.00010
+[2025-01-12 05:00:37] Episode 4670, Avg Reward: 161.40, Epsilon: 0.00010
+[2025-01-12 05:01:19] Episode 4680, Avg Reward: 179.56, Epsilon: 0.00010
+[2025-01-12 05:01:35] Episode 4690, Avg Reward: 171.21, Epsilon: 0.00010
+[2025-01-12 05:01:53] Saved checkpoint at episode 4700
+[2025-01-12 05:01:53] Episode 4700, Avg Reward: 171.58, Epsilon: 0.00010
+[2025-01-12 05:02:19] Episode 4710, Avg Reward: 171.52, Epsilon: 0.00010
+[2025-01-12 05:02:31] Episode 4720, Avg Reward: 163.06, Epsilon: 0.00010
+[2025-01-12 05:03:05] Episode 4730, Avg Reward: 161.74, Epsilon: 0.00010
+[2025-01-12 05:03:41] Episode 4740, Avg Reward: 168.05, Epsilon: 0.00010
+[2025-01-12 05:04:10] Episode 4750, Avg Reward: 171.09, Epsilon: 0.00010
+[2025-01-12 05:04:38] Episode 4760, Avg Reward: 170.33, Epsilon: 0.00010
+[2025-01-12 05:04:54] Episode 4770, Avg Reward: 159.35, Epsilon: 0.00010
+[2025-01-12 05:05:41] Episode 4780, Avg Reward: 163.48, Epsilon: 0.00010
+[2025-01-12 05:06:02] Episode 4790, Avg Reward: 168.92, Epsilon: 0.00010
+[2025-01-12 05:06:33] Saved checkpoint at episode 4800
+[2025-01-12 05:06:33] Episode 4800, Avg Reward: 180.20, Epsilon: 0.00010
+[2025-01-12 05:06:55] Episode 4810, Avg Reward: 174.02, Epsilon: 0.00010
+[2025-01-12 05:07:32] Episode 4820, Avg Reward: 194.43, Epsilon: 0.00010
+[2025-01-12 05:08:01] Episode 4830, Avg Reward: 191.13, Epsilon: 0.00010
+[2025-01-12 05:08:30] Episode 4840, Avg Reward: 183.89, Epsilon: 0.00010
+[2025-01-12 05:08:48] Episode 4850, Avg Reward: 175.21, Epsilon: 0.00010
+[2025-01-12 05:09:25] Episode 4860, Avg Reward: 180.74, Epsilon: 0.00010
+[2025-01-12 05:09:52] Episode 4870, Avg Reward: 191.66, Epsilon: 0.00010
+[2025-01-12 05:10:13] Episode 4880, Avg Reward: 170.05, Epsilon: 0.00010
+[2025-01-12 05:10:47] Episode 4890, Avg Reward: 179.47, Epsilon: 0.00010
+[2025-01-12 05:11:26] Saved checkpoint at episode 4900
+[2025-01-12 05:11:26] Episode 4900, Avg Reward: 185.55, Epsilon: 0.00010
+[2025-01-12 05:11:52] Episode 4910, Avg Reward: 189.82, Epsilon: 0.00010
+[2025-01-12 05:12:12] Episode 4920, Avg Reward: 176.43, Epsilon: 0.00010
+[2025-01-12 05:12:36] Episode 4930, Avg Reward: 173.72, Epsilon: 0.00010
+[2025-01-12 05:13:13] Episode 4940, Avg Reward: 179.87, Epsilon: 0.00010
+[2025-01-12 05:13:45] Episode 4950, Avg Reward: 192.50, Epsilon: 0.00010
+[2025-01-12 05:14:06] Episode 4960, Avg Reward: 180.88, Epsilon: 0.00010
+[2025-01-12 05:14:29] Episode 4970, Avg Reward: 176.58, Epsilon: 0.00010
+[2025-01-12 05:15:01] Episode 4980, Avg Reward: 183.32, Epsilon: 0.00010
+[2025-01-12 05:15:24] Episode 4990, Avg Reward: 174.81, Epsilon: 0.00010
+[2025-01-12 05:15:43] Saved checkpoint at episode 5000
+[2025-01-12 05:15:43] Episode 5000, Avg Reward: 157.00, Epsilon: 0.00010
+[2025-01-12 05:16:18] Episode 5010, Avg Reward: 164.54, Epsilon: 0.00010
+[2025-01-12 05:16:44] Episode 5020, Avg Reward: 167.97, Epsilon: 0.00010
+[2025-01-12 05:17:09] Episode 5030, Avg Reward: 168.12, Epsilon: 0.00010
+[2025-01-12 05:17:34] Episode 5040, Avg Reward: 160.35, Epsilon: 0.00010
+[2025-01-12 05:17:58] Episode 5050, Avg Reward: 153.49, Epsilon: 0.00010
+[2025-01-12 05:18:27] Episode 5060, Avg Reward: 160.45, Epsilon: 0.00010
+[2025-01-12 05:18:53] Episode 5070, Avg Reward: 161.12, Epsilon: 0.00010
+[2025-01-12 05:19:11] Episode 5080, Avg Reward: 150.88, Epsilon: 0.00010
+[2025-01-12 05:19:37] Episode 5090, Avg Reward: 153.84, Epsilon: 0.00010
+[2025-01-12 05:20:08] Saved checkpoint at episode 5100
+[2025-01-12 05:20:08] Episode 5100, Avg Reward: 163.81, Epsilon: 0.00010
+[2025-01-12 05:20:34] Episode 5110, Avg Reward: 157.97, Epsilon: 0.00010
+[2025-01-12 05:20:58] Episode 5120, Avg Reward: 156.23, Epsilon: 0.00010
+[2025-01-12 05:21:27] Episode 5130, Avg Reward: 160.04, Epsilon: 0.00010
+[2025-01-12 05:22:02] Episode 5140, Avg Reward: 168.67, Epsilon: 0.00010
+[2025-01-12 05:23:05] Episode 5150, Avg Reward: 201.53, Epsilon: 0.00010
+[2025-01-12 05:23:31] Episode 5160, Avg Reward: 198.10, Epsilon: 0.00010
+[2025-01-12 05:24:01] Episode 5170, Avg Reward: 202.12, Epsilon: 0.00010
+[2025-01-12 05:24:39] Episode 5180, Avg Reward: 218.02, Epsilon: 0.00010
+[2025-01-12 05:25:15] Episode 5190, Avg Reward: 225.13, Epsilon: 0.00010
+[2025-01-12 05:25:56] Saved checkpoint at episode 5200
+[2025-01-12 05:25:56] Episode 5200, Avg Reward: 234.67, Epsilon: 0.00010
+[2025-01-12 05:26:25] Episode 5210, Avg Reward: 236.96, Epsilon: 0.00010
+[2025-01-12 05:27:13] Episode 5220, Avg Reward: 256.89, Epsilon: 0.00010
+[2025-01-12 05:28:01] Episode 5230, Avg Reward: 270.99, Epsilon: 0.00010
+[2025-01-12 05:28:26] Episode 5240, Avg Reward: 261.01, Epsilon: 0.00010
+[2025-01-12 05:28:57] Episode 5250, Avg Reward: 232.99, Epsilon: 0.00010
+[2025-01-12 05:29:29] Episode 5260, Avg Reward: 237.65, Epsilon: 0.00010
+[2025-01-12 05:29:57] Episode 5270, Avg Reward: 237.51, Epsilon: 0.00010
+[2025-01-12 05:30:13] Episode 5280, Avg Reward: 220.91, Epsilon: 0.00010
+[2025-01-12 05:30:53] Episode 5290, Avg Reward: 224.05, Epsilon: 0.00010
+[2025-01-12 05:31:18] Saved checkpoint at episode 5300
+[2025-01-12 05:31:18] Episode 5300, Avg Reward: 210.53, Epsilon: 0.00010
+[2025-01-12 05:31:49] Episode 5310, Avg Reward: 210.48, Epsilon: 0.00010
+[2025-01-12 05:32:23] Episode 5320, Avg Reward: 200.03, Epsilon: 0.00010
+[2025-01-12 05:32:47] Episode 5330, Avg Reward: 181.22, Epsilon: 0.00010
+[2025-01-12 05:33:28] Episode 5340, Avg Reward: 194.70, Epsilon: 0.00010
+[2025-01-12 05:34:04] Episode 5350, Avg Reward: 200.80, Epsilon: 0.00010
+[2025-01-12 05:34:29] Episode 5360, Avg Reward: 196.07, Epsilon: 0.00010
+[2025-01-12 05:35:01] Episode 5370, Avg Reward: 197.55, Epsilon: 0.00010
+[2025-01-12 05:35:22] Episode 5380, Avg Reward: 201.11, Epsilon: 0.00010
+[2025-01-12 05:36:08] Episode 5390, Avg Reward: 204.74, Epsilon: 0.00010
+[2025-01-12 05:37:18] Saved checkpoint at episode 5400
+[2025-01-12 05:37:18] Episode 5400, Avg Reward: 240.40, Epsilon: 0.00010
+[2025-01-12 05:37:53] Episode 5410, Avg Reward: 245.85, Epsilon: 0.00010
+[2025-01-12 05:38:28] Episode 5420, Avg Reward: 247.52, Epsilon: 0.00010
+[2025-01-12 05:39:13] Episode 5430, Avg Reward: 263.63, Epsilon: 0.00010
+[2025-01-12 05:39:37] Episode 5440, Avg Reward: 250.40, Epsilon: 0.00010
+[2025-01-12 05:39:57] Episode 5450, Avg Reward: 234.11, Epsilon: 0.00010
+[2025-01-12 05:40:32] Episode 5460, Avg Reward: 243.47, Epsilon: 0.00010
+[2025-01-12 05:41:06] Episode 5470, Avg Reward: 245.91, Epsilon: 0.00010
+[2025-01-12 05:41:40] Episode 5480, Avg Reward: 257.14, Epsilon: 0.00010
+[2025-01-12 05:42:36] Episode 5490, Avg Reward: 270.14, Epsilon: 0.00010
+[2025-01-12 05:43:20] Saved checkpoint at episode 5500
+[2025-01-12 05:43:20] Episode 5500, Avg Reward: 250.65, Epsilon: 0.00010
+[2025-01-12 05:43:56] Episode 5510, Avg Reward: 249.11, Epsilon: 0.00010
+[2025-01-12 05:45:19] Episode 5520, Avg Reward: 285.86, Epsilon: 0.00010
+[2025-01-12 05:45:56] Episode 5530, Avg Reward: 281.79, Epsilon: 0.00010
+[2025-01-12 05:46:07] Episode 5540, Avg Reward: 270.89, Epsilon: 0.00010
+[2025-01-12 05:46:29] Episode 5550, Avg Reward: 275.20, Epsilon: 0.00010
+[2025-01-12 05:47:19] Episode 5560, Avg Reward: 284.86, Epsilon: 0.00010
+[2025-01-12 05:47:59] Episode 5570, Avg Reward: 289.63, Epsilon: 0.00010
+[2025-01-12 05:48:33] Episode 5580, Avg Reward: 290.25, Epsilon: 0.00010
+[2025-01-12 05:49:05] Episode 5590, Avg Reward: 267.19, Epsilon: 0.00010
+[2025-01-12 05:49:27] Saved checkpoint at episode 5600
+[2025-01-12 05:49:27] Episode 5600, Avg Reward: 247.42, Epsilon: 0.00010
+[2025-01-12 05:50:05] Episode 5610, Avg Reward: 252.09, Epsilon: 0.00010
+[2025-01-12 05:50:21] Episode 5620, Avg Reward: 199.61, Epsilon: 0.00010
+[2025-01-12 05:50:50] Episode 5630, Avg Reward: 190.69, Epsilon: 0.00010
+[2025-01-12 05:51:11] Episode 5640, Avg Reward: 198.73, Epsilon: 0.00010
+[2025-01-12 05:51:57] Episode 5650, Avg Reward: 216.25, Epsilon: 0.00010
+[2025-01-12 05:52:37] Episode 5660, Avg Reward: 209.87, Epsilon: 0.00010
+[2025-01-12 05:53:29] Episode 5670, Avg Reward: 218.89, Epsilon: 0.00010
+[2025-01-12 05:53:53] Episode 5680, Avg Reward: 210.79, Epsilon: 0.00010
+[2025-01-12 05:54:19] Episode 5690, Avg Reward: 207.87, Epsilon: 0.00010
+[2025-01-12 05:54:42] Saved checkpoint at episode 5700
+[2025-01-12 05:54:42] Episode 5700, Avg Reward: 208.65, Epsilon: 0.00010
+[2025-01-12 05:55:09] Episode 5710, Avg Reward: 197.48, Epsilon: 0.00010
+[2025-01-12 05:55:44] Episode 5720, Avg Reward: 212.12, Epsilon: 0.00010
+[2025-01-12 05:56:04] Episode 5730, Avg Reward: 205.04, Epsilon: 0.00010
+[2025-01-12 05:56:37] Episode 5740, Avg Reward: 213.85, Epsilon: 0.00010
+[2025-01-12 05:57:28] Episode 5750, Avg Reward: 219.05, Epsilon: 0.00010
+[2025-01-12 05:58:15] Episode 5760, Avg Reward: 224.96, Epsilon: 0.00010
+[2025-01-12 05:58:40] Episode 5770, Avg Reward: 203.01, Epsilon: 0.00010
+[2025-01-12 05:59:17] Episode 5780, Avg Reward: 211.81, Epsilon: 0.00010
+[2025-01-12 05:59:43] Episode 5790, Avg Reward: 209.88, Epsilon: 0.00010
+[2025-01-12 06:00:06] Saved checkpoint at episode 5800
+[2025-01-12 06:00:06] Episode 5800, Avg Reward: 210.81, Epsilon: 0.00010
+[2025-01-12 06:00:39] Episode 5810, Avg Reward: 216.22, Epsilon: 0.00010
+[2025-01-12 06:01:08] Episode 5820, Avg Reward: 210.75, Epsilon: 0.00010
+[2025-01-12 06:01:49] Episode 5830, Avg Reward: 229.75, Epsilon: 0.00010
+[2025-01-12 06:02:20] Episode 5840, Avg Reward: 230.78, Epsilon: 0.00010
+[2025-01-12 06:02:49] Episode 5850, Avg Reward: 211.78, Epsilon: 0.00010
+[2025-01-12 06:03:10] Episode 5860, Avg Reward: 189.10, Epsilon: 0.00010
+[2025-01-12 06:03:44] Episode 5870, Avg Reward: 196.99, Epsilon: 0.00010
+[2025-01-12 06:04:12] Episode 5880, Avg Reward: 189.01, Epsilon: 0.00010
+[2025-01-12 06:04:36] Episode 5890, Avg Reward: 186.83, Epsilon: 0.00010
+[2025-01-12 06:05:19] Saved checkpoint at episode 5900
+[2025-01-12 06:05:19] Episode 5900, Avg Reward: 202.40, Epsilon: 0.00010
+[2025-01-12 06:05:58] Episode 5910, Avg Reward: 209.25, Epsilon: 0.00010
+[2025-01-12 06:06:27] Episode 5920, Avg Reward: 210.48, Epsilon: 0.00010
+[2025-01-12 06:07:03] Episode 5930, Avg Reward: 205.29, Epsilon: 0.00010
+[2025-01-12 06:07:32] Episode 5940, Avg Reward: 202.63, Epsilon: 0.00010
+[2025-01-12 06:08:01] Episode 5950, Avg Reward: 202.87, Epsilon: 0.00010
+[2025-01-12 06:08:34] Episode 5960, Avg Reward: 213.67, Epsilon: 0.00010
+[2025-01-12 06:09:01] Episode 5970, Avg Reward: 207.55, Epsilon: 0.00010
+[2025-01-12 06:09:37] Episode 5980, Avg Reward: 215.76, Epsilon: 0.00010
+[2025-01-12 06:10:19] Episode 5990, Avg Reward: 232.83, Epsilon: 0.00010
+[2025-01-12 06:10:46] Saved checkpoint at episode 6000
+[2025-01-12 06:10:46] Episode 6000, Avg Reward: 219.79, Epsilon: 0.00010
+[2025-01-12 06:11:39] Episode 6010, Avg Reward: 229.04, Epsilon: 0.00010
+[2025-01-12 06:12:26] Episode 6020, Avg Reward: 243.33, Epsilon: 0.00010
+[2025-01-12 06:13:29] Episode 6030, Avg Reward: 265.88, Epsilon: 0.00010
+[2025-01-12 06:13:55] Episode 6040, Avg Reward: 263.37, Epsilon: 0.00010
+[2025-01-12 06:14:37] Episode 6050, Avg Reward: 274.19, Epsilon: 0.00010
+[2025-01-12 06:15:15] Episode 6060, Avg Reward: 277.51, Epsilon: 0.00010
+[2025-01-12 06:15:55] Episode 6070, Avg Reward: 288.54, Epsilon: 0.00010
+[2025-01-12 06:16:26] Episode 6080, Avg Reward: 285.34, Epsilon: 0.00010
+[2025-01-12 06:17:08] Episode 6090, Avg Reward: 283.63, Epsilon: 0.00010
+[2025-01-12 06:17:48] Saved checkpoint at episode 6100
+[2025-01-12 06:17:48] Episode 6100, Avg Reward: 294.93, Epsilon: 0.00010
+[2025-01-12 06:18:27] Episode 6110, Avg Reward: 283.15, Epsilon: 0.00010
+[2025-01-12 06:19:08] Episode 6120, Avg Reward: 276.56, Epsilon: 0.00010
+[2025-01-12 06:19:44] Episode 6130, Avg Reward: 254.33, Epsilon: 0.00010
+[2025-01-12 06:20:18] Episode 6140, Avg Reward: 260.40, Epsilon: 0.00010
+[2025-01-12 06:21:05] Episode 6150, Avg Reward: 265.51, Epsilon: 0.00010
+[2025-01-12 06:21:49] Episode 6160, Avg Reward: 270.86, Epsilon: 0.00010
+[2025-01-12 06:22:25] Episode 6170, Avg Reward: 270.92, Epsilon: 0.00010
+[2025-01-12 06:22:50] Episode 6180, Avg Reward: 263.17, Epsilon: 0.00010
+[2025-01-12 06:23:25] Episode 6190, Avg Reward: 258.26, Epsilon: 0.00010
+[2025-01-12 06:24:04] Saved checkpoint at episode 6200
+[2025-01-12 06:24:04] Episode 6200, Avg Reward: 256.76, Epsilon: 0.00010
+[2025-01-12 06:24:47] Episode 6210, Avg Reward: 261.15, Epsilon: 0.00010
+[2025-01-12 06:25:32] Episode 6220, Avg Reward: 264.99, Epsilon: 0.00010
+[2025-01-12 06:26:38] Episode 6230, Avg Reward: 291.86, Epsilon: 0.00010
+[2025-01-12 06:27:27] Episode 6240, Avg Reward: 303.67, Epsilon: 0.00010
+[2025-01-12 06:28:00] Episode 6250, Avg Reward: 291.25, Epsilon: 0.00010
+[2025-01-12 06:28:43] Episode 6260, Avg Reward: 290.85, Epsilon: 0.00010
+[2025-01-12 06:29:47] Episode 6270, Avg Reward: 311.81, Epsilon: 0.00010
+[2025-01-12 06:30:28] Episode 6280, Avg Reward: 328.05, Epsilon: 0.00010
+[2025-01-12 06:31:04] Episode 6290, Avg Reward: 327.60, Epsilon: 0.00010
+[2025-01-12 06:31:48] Saved checkpoint at episode 6300
+[2025-01-12 06:31:48] Episode 6300, Avg Reward: 332.35, Epsilon: 0.00010
+[2025-01-12 06:32:35] Episode 6310, Avg Reward: 335.91, Epsilon: 0.00010
+[2025-01-12 06:33:03] Episode 6320, Avg Reward: 321.56, Epsilon: 0.00010
+[2025-01-12 06:33:37] Episode 6330, Avg Reward: 293.24, Epsilon: 0.00010
+[2025-01-12 06:34:17] Episode 6340, Avg Reward: 287.50, Epsilon: 0.00010
+[2025-01-12 06:35:15] Episode 6350, Avg Reward: 308.00, Epsilon: 0.00010
+[2025-01-12 06:36:05] Episode 6360, Avg Reward: 312.69, Epsilon: 0.00010
+[2025-01-12 06:36:39] Episode 6370, Avg Reward: 288.10, Epsilon: 0.00010
+[2025-01-12 06:37:04] Episode 6380, Avg Reward: 272.71, Epsilon: 0.00010
+[2025-01-12 06:37:45] Episode 6390, Avg Reward: 278.60, Epsilon: 0.00010
+[2025-01-12 06:38:07] Saved checkpoint at episode 6400
+[2025-01-12 06:38:07] Episode 6400, Avg Reward: 260.69, Epsilon: 0.00010
+[2025-01-12 06:38:26] Episode 6410, Avg Reward: 238.05, Epsilon: 0.00010
+[2025-01-12 06:39:07] Episode 6420, Avg Reward: 248.91, Epsilon: 0.00010
+[2025-01-12 06:39:47] Episode 6430, Avg Reward: 253.42, Epsilon: 0.00010
+[2025-01-12 06:40:42] Episode 6440, Avg Reward: 265.02, Epsilon: 0.00010
+[2025-01-12 06:41:21] Episode 6450, Avg Reward: 249.15, Epsilon: 0.00010
+[2025-01-12 06:42:23] Episode 6460, Avg Reward: 262.74, Epsilon: 0.00010
+[2025-01-12 06:43:37] Episode 6470, Avg Reward: 293.26, Epsilon: 0.00010
+[2025-01-12 06:44:07] Episode 6480, Avg Reward: 298.15, Epsilon: 0.00010
+[2025-01-12 06:44:36] Episode 6490, Avg Reward: 287.52, Epsilon: 0.00010
+[2025-01-12 06:45:18] Saved checkpoint at episode 6500
+[2025-01-12 06:45:18] Episode 6500, Avg Reward: 303.51, Epsilon: 0.00010
+[2025-01-12 06:45:36] Episode 6510, Avg Reward: 301.41, Epsilon: 0.00010
+[2025-01-12 06:46:11] Episode 6520, Avg Reward: 299.55, Epsilon: 0.00010
+[2025-01-12 06:46:48] Episode 6530, Avg Reward: 297.43, Epsilon: 0.00010
+[2025-01-12 06:47:17] Episode 6540, Avg Reward: 275.38, Epsilon: 0.00010
+[2025-01-12 06:48:26] Episode 6550, Avg Reward: 298.32, Epsilon: 0.00010
+[2025-01-12 06:48:59] Episode 6560, Avg Reward: 269.63, Epsilon: 0.00010
+[2025-01-12 06:49:24] Episode 6570, Avg Reward: 230.81, Epsilon: 0.00010
+[2025-01-12 06:49:57] Episode 6580, Avg Reward: 234.75, Epsilon: 0.00010
+[2025-01-12 06:50:26] Episode 6590, Avg Reward: 235.83, Epsilon: 0.00010
+[2025-01-12 06:51:17] Saved checkpoint at episode 6600
+[2025-01-12 06:51:17] Episode 6600, Avg Reward: 242.65, Epsilon: 0.00010
+[2025-01-12 06:52:12] Episode 6610, Avg Reward: 273.05, Epsilon: 0.00010
+[2025-01-12 06:52:55] Episode 6620, Avg Reward: 277.59, Epsilon: 0.00010
+[2025-01-12 06:53:21] Episode 6630, Avg Reward: 268.86, Epsilon: 0.00010
+[2025-01-12 06:54:02] Episode 6640, Avg Reward: 280.00, Epsilon: 0.00010
+[2025-01-12 06:54:29] Episode 6650, Avg Reward: 249.16, Epsilon: 0.00010
+[2025-01-12 06:55:13] Episode 6660, Avg Reward: 260.60, Epsilon: 0.00010
+[2025-01-12 06:55:53] Episode 6670, Avg Reward: 272.05, Epsilon: 0.00010
+[2025-01-12 06:56:46] Episode 6680, Avg Reward: 285.49, Epsilon: 0.00010
+[2025-01-12 06:57:22] Episode 6690, Avg Reward: 288.99, Epsilon: 0.00010
+[2025-01-12 06:57:59] Saved checkpoint at episode 6700
+[2025-01-12 06:57:59] Episode 6700, Avg Reward: 279.71, Epsilon: 0.00010
+[2025-01-12 06:59:00] Episode 6710, Avg Reward: 284.85, Epsilon: 0.00010
+[2025-01-12 06:59:27] Episode 6720, Avg Reward: 272.07, Epsilon: 0.00010
+[2025-01-12 07:00:09] Episode 6730, Avg Reward: 284.38, Epsilon: 0.00010
+[2025-01-12 07:01:10] Episode 6740, Avg Reward: 300.31, Epsilon: 0.00010
+[2025-01-12 07:01:43] Episode 6750, Avg Reward: 305.19, Epsilon: 0.00010
+[2025-01-12 07:02:16] Episode 6760, Avg Reward: 296.36, Epsilon: 0.00010
+[2025-01-12 07:02:54] Episode 6770, Avg Reward: 294.52, Epsilon: 0.00010
+[2025-01-12 07:03:28] Episode 6780, Avg Reward: 281.20, Epsilon: 0.00010
+[2025-01-12 07:03:51] Episode 6790, Avg Reward: 270.49, Epsilon: 0.00010
+[2025-01-12 07:04:19] Saved checkpoint at episode 6800
+[2025-01-12 07:04:19] Episode 6800, Avg Reward: 262.67, Epsilon: 0.00010
+[2025-01-12 07:04:45] Episode 6810, Avg Reward: 232.98, Epsilon: 0.00010
+[2025-01-12 07:05:30] Episode 6820, Avg Reward: 246.66, Epsilon: 0.00010
+[2025-01-12 07:05:56] Episode 6830, Avg Reward: 235.12, Epsilon: 0.00010
+[2025-01-12 07:06:51] Episode 6840, Avg Reward: 230.46, Epsilon: 0.00010
+[2025-01-12 07:07:30] Episode 6850, Avg Reward: 234.15, Epsilon: 0.00010
+[2025-01-12 07:08:01] Episode 6860, Avg Reward: 230.87, Epsilon: 0.00010
+[2025-01-12 07:08:55] Episode 6870, Avg Reward: 245.84, Epsilon: 0.00010
+[2025-01-12 07:09:37] Episode 6880, Avg Reward: 251.51, Epsilon: 0.00010
+[2025-01-12 07:10:17] Episode 6890, Avg Reward: 267.66, Epsilon: 0.00010
+[2025-01-12 07:11:21] Saved checkpoint at episode 6900
+[2025-01-12 07:11:21] Episode 6900, Avg Reward: 295.91, Epsilon: 0.00010
+[2025-01-12 07:11:41] Episode 6910, Avg Reward: 290.45, Epsilon: 0.00010
+[2025-01-12 07:12:26] Episode 6920, Avg Reward: 292.03, Epsilon: 0.00010
+[2025-01-12 07:13:07] Episode 6930, Avg Reward: 303.22, Epsilon: 0.00010
+[2025-01-12 07:13:42] Episode 6940, Avg Reward: 286.60, Epsilon: 0.00010
+[2025-01-12 07:14:26] Episode 6950, Avg Reward: 292.42, Epsilon: 0.00010
+[2025-01-12 07:15:12] Episode 6960, Avg Reward: 303.43, Epsilon: 0.00010
+[2025-01-12 07:15:45] Episode 6970, Avg Reward: 284.69, Epsilon: 0.00010
+[2025-01-12 07:16:54] Episode 6980, Avg Reward: 306.90, Epsilon: 0.00010
+[2025-01-12 07:17:30] Episode 6990, Avg Reward: 301.79, Epsilon: 0.00010
+[2025-01-12 07:18:00] Saved checkpoint at episode 7000
+[2025-01-12 07:18:00] Episode 7000, Avg Reward: 275.60, Epsilon: 0.00010
+[2025-01-12 07:18:19] Episode 7010, Avg Reward: 276.33, Epsilon: 0.00010
+[2025-01-12 07:18:49] Episode 7020, Avg Reward: 262.56, Epsilon: 0.00010
+[2025-01-12 07:19:21] Episode 7030, Avg Reward: 255.57, Epsilon: 0.00010
+[2025-01-12 07:20:20] Episode 7040, Avg Reward: 274.47, Epsilon: 0.00010
+[2025-01-12 07:21:35] Episode 7050, Avg Reward: 298.10, Epsilon: 0.00010
+[2025-01-12 07:22:29] Episode 7060, Avg Reward: 309.31, Epsilon: 0.00010
+[2025-01-12 07:22:59] Episode 7070, Avg Reward: 305.64, Epsilon: 0.00010
+[2025-01-12 07:23:33] Episode 7080, Avg Reward: 277.71, Epsilon: 0.00010
+[2025-01-12 07:24:37] Episode 7090, Avg Reward: 301.06, Epsilon: 0.00010
+[2025-01-12 07:25:48] Saved checkpoint at episode 7100
+[2025-01-12 07:25:48] Episode 7100, Avg Reward: 333.50, Epsilon: 0.00010
+[2025-01-12 07:26:22] Episode 7110, Avg Reward: 347.71, Epsilon: 0.00010
+[2025-01-12 07:27:40] Episode 7120, Avg Reward: 386.91, Epsilon: 0.00010
+[2025-01-12 07:28:20] Episode 7130, Avg Reward: 394.27, Epsilon: 0.00010
+[2025-01-12 07:29:26] Episode 7140, Avg Reward: 400.05, Epsilon: 0.00010
+[2025-01-12 07:30:12] Episode 7150, Avg Reward: 377.79, Epsilon: 0.00010
+[2025-01-12 07:30:57] Episode 7160, Avg Reward: 366.50, Epsilon: 0.00010
+[2025-01-12 07:31:57] Episode 7170, Avg Reward: 393.63, Epsilon: 0.00010
+[2025-01-12 07:32:28] Episode 7180, Avg Reward: 391.20, Epsilon: 0.00010
+[2025-01-12 07:33:16] Episode 7190, Avg Reward: 378.20, Epsilon: 0.00010
+[2025-01-12 07:33:48] Saved checkpoint at episode 7200
+[2025-01-12 07:33:48] Episode 7200, Avg Reward: 346.58, Epsilon: 0.00010
+[2025-01-12 07:34:25] Episode 7210, Avg Reward: 348.83, Epsilon: 0.00010
+[2025-01-12 07:35:15] Episode 7220, Avg Reward: 325.08, Epsilon: 0.00010
+[2025-01-12 07:35:45] Episode 7230, Avg Reward: 314.71, Epsilon: 0.00010
+[2025-01-12 07:36:10] Episode 7240, Avg Reward: 281.04, Epsilon: 0.00010
+[2025-01-12 07:36:50] Episode 7250, Avg Reward: 275.64, Epsilon: 0.00010
+[2025-01-12 07:37:49] Episode 7260, Avg Reward: 288.14, Epsilon: 0.00010
+[2025-01-12 07:38:26] Episode 7270, Avg Reward: 270.88, Epsilon: 0.00010
+[2025-01-12 07:39:02] Episode 7280, Avg Reward: 272.13, Epsilon: 0.00010
+[2025-01-12 07:39:47] Episode 7290, Avg Reward: 270.47, Epsilon: 0.00010
+[2025-01-12 07:40:12] Saved checkpoint at episode 7300
+[2025-01-12 07:40:12] Episode 7300, Avg Reward: 264.77, Epsilon: 0.00010
+[2025-01-12 07:40:48] Episode 7310, Avg Reward: 261.81, Epsilon: 0.00010
+[2025-01-12 07:41:45] Episode 7320, Avg Reward: 269.36, Epsilon: 0.00010
+[2025-01-12 07:42:15] Episode 7330, Avg Reward: 271.01, Epsilon: 0.00010
+[2025-01-12 07:42:41] Episode 7340, Avg Reward: 270.47, Epsilon: 0.00010
+[2025-01-12 07:43:24] Episode 7350, Avg Reward: 272.80, Epsilon: 0.00010
+[2025-01-12 07:44:08] Episode 7360, Avg Reward: 259.34, Epsilon: 0.00010
+[2025-01-12 07:44:27] Episode 7370, Avg Reward: 243.18, Epsilon: 0.00010
+[2025-01-12 07:45:26] Episode 7380, Avg Reward: 264.33, Epsilon: 0.00010
+[2025-01-12 07:46:27] Episode 7390, Avg Reward: 279.43, Epsilon: 0.00010
+[2025-01-12 07:46:57] Saved checkpoint at episode 7400
+[2025-01-12 07:46:57] Episode 7400, Avg Reward: 282.19, Epsilon: 0.00010
+[2025-01-12 07:47:36] Episode 7410, Avg Reward: 284.52, Epsilon: 0.00010
+[2025-01-12 07:48:12] Episode 7420, Avg Reward: 266.49, Epsilon: 0.00010
+[2025-01-12 07:48:39] Episode 7430, Avg Reward: 264.14, Epsilon: 0.00010
+[2025-01-12 07:49:11] Episode 7440, Avg Reward: 269.24, Epsilon: 0.00010
+[2025-01-12 07:50:06] Episode 7450, Avg Reward: 280.66, Epsilon: 0.00010
+[2025-01-12 07:50:41] Episode 7460, Avg Reward: 274.30, Epsilon: 0.00010
+[2025-01-12 07:51:05] Episode 7470, Avg Reward: 277.47, Epsilon: 0.00010
+[2025-01-12 07:51:25] Episode 7480, Avg Reward: 244.82, Epsilon: 0.00010
+[2025-01-12 07:51:57] Episode 7490, Avg Reward: 217.81, Epsilon: 0.00010
+[2025-01-12 07:52:37] Saved checkpoint at episode 7500
+[2025-01-12 07:52:37] Episode 7500, Avg Reward: 225.71, Epsilon: 0.00010
+[2025-01-12 07:53:29] Episode 7510, Avg Reward: 236.97, Epsilon: 0.00010
+[2025-01-12 07:54:01] Episode 7520, Avg Reward: 235.49, Epsilon: 0.00010
+[2025-01-12 07:54:38] Episode 7530, Avg Reward: 243.43, Epsilon: 0.00010
+[2025-01-12 07:55:12] Episode 7540, Avg Reward: 245.55, Epsilon: 0.00010
+[2025-01-12 07:56:01] Episode 7550, Avg Reward: 237.20, Epsilon: 0.00010
+[2025-01-12 07:56:52] Episode 7560, Avg Reward: 249.51, Epsilon: 0.00010
+[2025-01-12 07:57:20] Episode 7570, Avg Reward: 253.02, Epsilon: 0.00010
+[2025-01-12 07:58:17] Episode 7580, Avg Reward: 286.46, Epsilon: 0.00010
+[2025-01-12 07:59:15] Episode 7590, Avg Reward: 308.58, Epsilon: 0.00010
+[2025-01-12 08:00:03] Saved checkpoint at episode 7600
+[2025-01-12 08:00:03] Episode 7600, Avg Reward: 315.79, Epsilon: 0.00010
+[2025-01-12 08:00:38] Episode 7610, Avg Reward: 302.56, Epsilon: 0.00010
+[2025-01-12 08:01:40] Episode 7620, Avg Reward: 326.24, Epsilon: 0.00010
+[2025-01-12 08:02:12] Episode 7630, Avg Reward: 323.46, Epsilon: 0.00010
+[2025-01-12 08:03:37] Episode 7640, Avg Reward: 365.54, Epsilon: 0.00010
+[2025-01-12 08:04:35] Episode 7650, Avg Reward: 373.95, Epsilon: 0.00010
+[2025-01-12 08:06:08] Episode 7660, Avg Reward: 410.81, Epsilon: 0.00010
+[2025-01-12 08:06:35] Episode 7670, Avg Reward: 410.76, Epsilon: 0.00010
+[2025-01-12 08:07:08] Episode 7680, Avg Reward: 387.12, Epsilon: 0.00010
+[2025-01-12 08:08:05] Episode 7690, Avg Reward: 386.07, Epsilon: 0.00010
+[2025-01-12 08:08:57] Saved checkpoint at episode 7700
+[2025-01-12 08:08:57] Episode 7700, Avg Reward: 390.37, Epsilon: 0.00010
+[2025-01-12 08:09:45] Episode 7710, Avg Reward: 400.86, Epsilon: 0.00010
+[2025-01-12 08:10:33] Episode 7720, Avg Reward: 390.92, Epsilon: 0.00010
+[2025-01-12 08:11:17] Episode 7730, Avg Reward: 398.59, Epsilon: 0.00010
+[2025-01-12 08:11:55] Episode 7740, Avg Reward: 358.52, Epsilon: 0.00010
+[2025-01-12 08:12:43] Episode 7750, Avg Reward: 351.11, Epsilon: 0.00010
+[2025-01-12 08:13:15] Episode 7760, Avg Reward: 299.61, Epsilon: 0.00010
+[2025-01-12 08:13:57] Episode 7770, Avg Reward: 312.15, Epsilon: 0.00010
+[2025-01-12 08:14:33] Episode 7780, Avg Reward: 316.36, Epsilon: 0.00010
+[2025-01-12 08:15:02] Episode 7790, Avg Reward: 292.51, Epsilon: 0.00010
+[2025-01-12 08:15:20] Saved checkpoint at episode 7800
+[2025-01-12 08:15:20] Episode 7800, Avg Reward: 264.03, Epsilon: 0.00010
+[2025-01-12 08:15:36] Episode 7810, Avg Reward: 236.34, Epsilon: 0.00010
+[2025-01-12 08:16:00] Episode 7820, Avg Reward: 214.22, Epsilon: 0.00010
+[2025-01-12 08:16:18] Episode 7830, Avg Reward: 191.88, Epsilon: 0.00010
+[2025-01-12 08:17:13] Episode 7840, Avg Reward: 206.41, Epsilon: 0.00010
+[2025-01-12 08:18:30] Episode 7850, Avg Reward: 232.29, Epsilon: 0.00010
+[2025-01-12 08:19:14] Episode 7860, Avg Reward: 241.44, Epsilon: 0.00010
+[2025-01-12 08:19:53] Episode 7870, Avg Reward: 237.92, Epsilon: 0.00010
+[2025-01-12 08:20:35] Episode 7880, Avg Reward: 243.38, Epsilon: 0.00010
+[2025-01-12 08:21:19] Episode 7890, Avg Reward: 255.43, Epsilon: 0.00010
+[2025-01-12 08:22:16] Saved checkpoint at episode 7900
+[2025-01-12 08:22:16] Episode 7900, Avg Reward: 289.96, Epsilon: 0.00010
+[2025-01-12 08:22:41] Episode 7910, Avg Reward: 297.61, Epsilon: 0.00010
+[2025-01-12 08:23:12] Episode 7920, Avg Reward: 303.84, Epsilon: 0.00010
+[2025-01-12 08:23:49] Episode 7930, Avg Reward: 321.08, Epsilon: 0.00010
+[2025-01-12 08:24:12] Episode 7940, Avg Reward: 295.84, Epsilon: 0.00010
+[2025-01-12 08:24:53] Episode 7950, Avg Reward: 264.33, Epsilon: 0.00010
+[2025-01-12 08:25:27] Episode 7960, Avg Reward: 255.83, Epsilon: 0.00010
+[2025-01-12 08:26:09] Episode 7970, Avg Reward: 259.27, Epsilon: 0.00010
+[2025-01-12 08:26:46] Episode 7980, Avg Reward: 252.70, Epsilon: 0.00010
+[2025-01-12 08:27:09] Episode 7990, Avg Reward: 236.04, Epsilon: 0.00010
+[2025-01-12 08:28:00] Saved checkpoint at episode 8000
+[2025-01-12 08:28:00] Episode 8000, Avg Reward: 227.95, Epsilon: 0.00010
+[2025-01-12 08:28:53] Episode 8010, Avg Reward: 252.18, Epsilon: 0.00010
+[2025-01-12 08:29:56] Episode 8020, Avg Reward: 279.37, Epsilon: 0.00010
+[2025-01-12 08:30:41] Episode 8030, Avg Reward: 285.69, Epsilon: 0.00010
+[2025-01-12 08:31:13] Episode 8040, Avg Reward: 292.64, Epsilon: 0.00010
+[2025-01-12 08:31:49] Episode 8050, Avg Reward: 287.35, Epsilon: 0.00010
+[2025-01-12 08:32:27] Episode 8060, Avg Reward: 290.66, Epsilon: 0.00010
+[2025-01-12 08:32:54] Episode 8070, Avg Reward: 276.50, Epsilon: 0.00010
+[2025-01-12 08:33:31] Episode 8080, Avg Reward: 277.72, Epsilon: 0.00010
+[2025-01-12 08:34:14] Episode 8090, Avg Reward: 296.49, Epsilon: 0.00010
+[2025-01-12 08:34:59] Saved checkpoint at episode 8100
+[2025-01-12 08:34:59] Episode 8100, Avg Reward: 291.29, Epsilon: 0.00010
+[2025-01-12 08:36:12] Episode 8110, Avg Reward: 307.11, Epsilon: 0.00010
+[2025-01-12 08:36:46] Episode 8120, Avg Reward: 282.65, Epsilon: 0.00010
+[2025-01-12 08:37:23] Episode 8130, Avg Reward: 276.20, Epsilon: 0.00010
+[2025-01-12 08:38:23] Episode 8140, Avg Reward: 302.76, Epsilon: 0.00010
+[2025-01-12 08:39:35] Episode 8150, Avg Reward: 331.72, Epsilon: 0.00010
+[2025-01-12 08:40:13] Episode 8160, Avg Reward: 332.73, Epsilon: 0.00010
+[2025-01-12 08:40:52] Episode 8170, Avg Reward: 343.70, Epsilon: 0.00010
+[2025-01-12 08:41:29] Episode 8180, Avg Reward: 343.10, Epsilon: 0.00010
+[2025-01-12 08:42:03] Episode 8190, Avg Reward: 336.03, Epsilon: 0.00010
+[2025-01-12 08:42:34] Saved checkpoint at episode 8200
+[2025-01-12 08:42:34] Episode 8200, Avg Reward: 326.00, Epsilon: 0.00010
+[2025-01-12 08:43:02] Episode 8210, Avg Reward: 287.84, Epsilon: 0.00010
+[2025-01-12 08:44:21] Episode 8220, Avg Reward: 324.91, Epsilon: 0.00010
+[2025-01-12 08:44:50] Episode 8230, Avg Reward: 317.95, Epsilon: 0.00010
+[2025-01-12 08:45:17] Episode 8240, Avg Reward: 288.34, Epsilon: 0.00010
+[2025-01-12 08:45:40] Episode 8250, Avg Reward: 250.41, Epsilon: 0.00010
+[2025-01-12 08:46:00] Episode 8260, Avg Reward: 236.18, Epsilon: 0.00010
+[2025-01-12 08:46:32] Episode 8270, Avg Reward: 230.87, Epsilon: 0.00010
+[2025-01-12 08:47:02] Episode 8280, Avg Reward: 225.15, Epsilon: 0.00010
+[2025-01-12 08:47:36] Episode 8290, Avg Reward: 223.32, Epsilon: 0.00010
+[2025-01-12 08:48:05] Saved checkpoint at episode 8300
+[2025-01-12 08:48:05] Episode 8300, Avg Reward: 220.88, Epsilon: 0.00010
+[2025-01-12 08:48:26] Episode 8310, Avg Reward: 217.24, Epsilon: 0.00010
+[2025-01-12 08:48:46] Episode 8320, Avg Reward: 167.79, Epsilon: 0.00010
+[2025-01-12 08:49:14] Episode 8330, Avg Reward: 166.73, Epsilon: 0.00010
+[2025-01-12 08:49:44] Episode 8340, Avg Reward: 169.79, Epsilon: 0.00010
+[2025-01-12 08:50:47] Episode 8350, Avg Reward: 203.66, Epsilon: 0.00010
+[2025-01-12 08:51:26] Episode 8360, Avg Reward: 218.80, Epsilon: 0.00010
+[2025-01-12 08:51:53] Episode 8370, Avg Reward: 213.86, Epsilon: 0.00010
+[2025-01-12 08:52:17] Episode 8380, Avg Reward: 210.16, Epsilon: 0.00010
+[2025-01-12 08:52:41] Episode 8390, Avg Reward: 201.63, Epsilon: 0.00010
+[2025-01-12 08:53:11] Saved checkpoint at episode 8400
+[2025-01-12 08:53:11] Episode 8400, Avg Reward: 202.43, Epsilon: 0.00010
+[2025-01-12 08:53:36] Episode 8410, Avg Reward: 204.41, Epsilon: 0.00010
+[2025-01-12 08:54:16] Episode 8420, Avg Reward: 223.53, Epsilon: 0.00010
+[2025-01-12 08:55:00] Episode 8430, Avg Reward: 236.43, Epsilon: 0.00010
+[2025-01-12 08:55:28] Episode 8440, Avg Reward: 234.35, Epsilon: 0.00010
+[2025-01-12 08:56:00] Episode 8450, Avg Reward: 205.94, Epsilon: 0.00010
+[2025-01-12 08:56:41] Episode 8460, Avg Reward: 206.38, Epsilon: 0.00010
+[2025-01-12 08:57:18] Episode 8470, Avg Reward: 214.35, Epsilon: 0.00010
+[2025-01-12 08:57:54] Episode 8480, Avg Reward: 225.25, Epsilon: 0.00010
+[2025-01-12 08:58:24] Episode 8490, Avg Reward: 233.06, Epsilon: 0.00010
+[2025-01-12 08:59:15] Saved checkpoint at episode 8500
+[2025-01-12 08:59:15] Episode 8500, Avg Reward: 249.70, Epsilon: 0.00010
+[2025-01-12 08:59:42] Episode 8510, Avg Reward: 251.17, Epsilon: 0.00010
+[2025-01-12 09:00:24] Episode 8520, Avg Reward: 250.28, Epsilon: 0.00010
+[2025-01-12 09:00:58] Episode 8530, Avg Reward: 242.92, Epsilon: 0.00010
+[2025-01-12 09:01:26] Episode 8540, Avg Reward: 241.59, Epsilon: 0.00010
+[2025-01-12 09:02:00] Episode 8550, Avg Reward: 245.35, Epsilon: 0.00010
+[2025-01-12 09:02:20] Episode 8560, Avg Reward: 230.90, Epsilon: 0.00010
+[2025-01-12 09:03:00] Episode 8570, Avg Reward: 232.18, Epsilon: 0.00010
+[2025-01-12 09:03:38] Episode 8580, Avg Reward: 232.85, Epsilon: 0.00010
+[2025-01-12 09:03:58] Episode 8590, Avg Reward: 221.21, Epsilon: 0.00010
+[2025-01-12 09:04:19] Saved checkpoint at episode 8600
+[2025-01-12 09:04:19] Episode 8600, Avg Reward: 198.27, Epsilon: 0.00010
+[2025-01-12 09:04:37] Episode 8610, Avg Reward: 192.18, Epsilon: 0.00010
+[2025-01-12 09:05:29] Episode 8620, Avg Reward: 200.15, Epsilon: 0.00010
+[2025-01-12 09:05:54] Episode 8630, Avg Reward: 194.10, Epsilon: 0.00010
+[2025-01-12 09:06:51] Episode 8640, Avg Reward: 219.45, Epsilon: 0.00010
+[2025-01-12 09:07:49] Episode 8650, Avg Reward: 237.95, Epsilon: 0.00010
+[2025-01-12 09:08:15] Episode 8660, Avg Reward: 241.81, Epsilon: 0.00010
+[2025-01-12 09:09:00] Episode 8670, Avg Reward: 247.43, Epsilon: 0.00010
+[2025-01-12 09:09:25] Episode 8680, Avg Reward: 236.15, Epsilon: 0.00010
+[2025-01-12 09:09:54] Episode 8690, Avg Reward: 245.45, Epsilon: 0.00010
+[2025-01-12 09:10:34] Saved checkpoint at episode 8700
+[2025-01-12 09:10:34] Episode 8700, Avg Reward: 261.66, Epsilon: 0.00010
+[2025-01-12 09:10:59] Episode 8710, Avg Reward: 264.56, Epsilon: 0.00010
+[2025-01-12 09:11:35] Episode 8720, Avg Reward: 253.11, Epsilon: 0.00010
+[2025-01-12 09:12:11] Episode 8730, Avg Reward: 259.80, Epsilon: 0.00010
+[2025-01-12 09:12:44] Episode 8740, Avg Reward: 238.40, Epsilon: 0.00010
+[2025-01-12 09:13:33] Episode 8750, Avg Reward: 230.84, Epsilon: 0.00010
+[2025-01-12 09:13:55] Episode 8760, Avg Reward: 228.24, Epsilon: 0.00010
+[2025-01-12 09:14:38] Episode 8770, Avg Reward: 227.07, Epsilon: 0.00010
+[2025-01-12 09:15:09] Episode 8780, Avg Reward: 232.22, Epsilon: 0.00010
+[2025-01-12 09:15:46] Episode 8790, Avg Reward: 236.53, Epsilon: 0.00010
+[2025-01-12 09:16:27] Saved checkpoint at episode 8800
+[2025-01-12 09:16:27] Episode 8800, Avg Reward: 236.66, Epsilon: 0.00010
+[2025-01-12 09:17:08] Episode 8810, Avg Reward: 251.47, Epsilon: 0.00010
+[2025-01-12 09:18:05] Episode 8820, Avg Reward: 269.19, Epsilon: 0.00010
+[2025-01-12 09:18:59] Episode 8830, Avg Reward: 285.40, Epsilon: 0.00010
+[2025-01-12 09:19:42] Episode 8840, Avg Reward: 294.53, Epsilon: 0.00010
+[2025-01-12 09:20:24] Episode 8850, Avg Reward: 287.83, Epsilon: 0.00010
+[2025-01-12 09:21:32] Episode 8860, Avg Reward: 323.89, Epsilon: 0.00010
+[2025-01-12 09:22:20] Episode 8870, Avg Reward: 329.60, Epsilon: 0.00010
+[2025-01-12 09:23:03] Episode 8880, Avg Reward: 339.55, Epsilon: 0.00010
+[2025-01-12 09:24:06] Episode 8890, Avg Reward: 362.02, Epsilon: 0.00010
+[2025-01-12 09:24:41] Saved checkpoint at episode 8900
+[2025-01-12 09:24:41] Episode 8900, Avg Reward: 356.85, Epsilon: 0.00010
+[2025-01-12 09:25:30] Episode 8910, Avg Reward: 363.54, Epsilon: 0.00010
+[2025-01-12 09:26:13] Episode 8920, Avg Reward: 352.41, Epsilon: 0.00010
+[2025-01-12 09:26:49] Episode 8930, Avg Reward: 336.38, Epsilon: 0.00010
+[2025-01-12 09:27:15] Episode 8940, Avg Reward: 323.02, Epsilon: 0.00010
+[2025-01-12 09:28:18] Episode 8950, Avg Reward: 340.09, Epsilon: 0.00010
+[2025-01-12 09:29:11] Episode 8960, Avg Reward: 327.76, Epsilon: 0.00010
+[2025-01-12 09:29:56] Episode 8970, Avg Reward: 324.25, Epsilon: 0.00010
+[2025-01-12 09:30:40] Episode 8980, Avg Reward: 325.17, Epsilon: 0.00010
+[2025-01-12 09:31:09] Episode 8990, Avg Reward: 296.78, Epsilon: 0.00010
+[2025-01-12 09:31:46] Saved checkpoint at episode 9000
+[2025-01-12 09:31:46] Episode 9000, Avg Reward: 296.78, Epsilon: 0.00010
+[2025-01-12 09:32:33] Episode 9010, Avg Reward: 294.29, Epsilon: 0.00010
+[2025-01-12 09:33:14] Episode 9020, Avg Reward: 289.97, Epsilon: 0.00010
+[2025-01-12 09:33:55] Episode 9030, Avg Reward: 296.02, Epsilon: 0.00010
+[2025-01-12 09:34:41] Episode 9040, Avg Reward: 312.02, Epsilon: 0.00010
+[2025-01-12 09:35:30] Episode 9050, Avg Reward: 301.18, Epsilon: 0.00010
+[2025-01-12 09:36:14] Episode 9060, Avg Reward: 292.68, Epsilon: 0.00010
+[2025-01-12 09:36:48] Episode 9070, Avg Reward: 281.97, Epsilon: 0.00010
+[2025-01-12 09:37:21] Episode 9080, Avg Reward: 272.17, Epsilon: 0.00010
+[2025-01-12 09:37:54] Episode 9090, Avg Reward: 277.19, Epsilon: 0.00010
+[2025-01-12 09:38:13] Saved checkpoint at episode 9100
+[2025-01-12 09:38:13] Episode 9100, Avg Reward: 264.75, Epsilon: 0.00010
+[2025-01-12 09:38:44] Episode 9110, Avg Reward: 252.44, Epsilon: 0.00010
+[2025-01-12 09:39:13] Episode 9120, Avg Reward: 242.57, Epsilon: 0.00010
+[2025-01-12 09:39:37] Episode 9130, Avg Reward: 227.66, Epsilon: 0.00010
+[2025-01-12 09:40:10] Episode 9140, Avg Reward: 215.54, Epsilon: 0.00010
+[2025-01-12 09:40:42] Episode 9150, Avg Reward: 201.34, Epsilon: 0.00010
+[2025-01-12 09:41:14] Episode 9160, Avg Reward: 193.31, Epsilon: 0.00010
+[2025-01-12 09:41:51] Episode 9170, Avg Reward: 197.59, Epsilon: 0.00010
+[2025-01-12 09:42:21] Episode 9180, Avg Reward: 196.74, Epsilon: 0.00010
+[2025-01-12 09:42:46] Episode 9190, Avg Reward: 188.40, Epsilon: 0.00010
+[2025-01-12 09:43:23] Saved checkpoint at episode 9200
+[2025-01-12 09:43:23] Episode 9200, Avg Reward: 202.31, Epsilon: 0.00010
+[2025-01-12 09:43:39] Episode 9210, Avg Reward: 189.79, Epsilon: 0.00010
+[2025-01-12 09:44:19] Episode 9220, Avg Reward: 198.79, Epsilon: 0.00010
+[2025-01-12 09:44:36] Episode 9230, Avg Reward: 193.48, Epsilon: 0.00010
+[2025-01-12 09:44:57] Episode 9240, Avg Reward: 184.20, Epsilon: 0.00010
+[2025-01-12 09:45:45] Episode 9250, Avg Reward: 197.10, Epsilon: 0.00010
+[2025-01-12 09:46:33] Episode 9260, Avg Reward: 211.02, Epsilon: 0.00010
+[2025-01-12 09:46:53] Episode 9270, Avg Reward: 194.92, Epsilon: 0.00010
+[2025-01-12 09:47:13] Episode 9280, Avg Reward: 185.33, Epsilon: 0.00010
+[2025-01-12 09:47:58] Episode 9290, Avg Reward: 200.76, Epsilon: 0.00010
+[2025-01-12 09:48:28] Saved checkpoint at episode 9300
+[2025-01-12 09:48:28] Episode 9300, Avg Reward: 195.99, Epsilon: 0.00010
+[2025-01-12 09:48:49] Episode 9310, Avg Reward: 199.81, Epsilon: 0.00010
+[2025-01-12 09:49:15] Episode 9320, Avg Reward: 188.63, Epsilon: 0.00010
+[2025-01-12 09:49:45] Episode 9330, Avg Reward: 199.95, Epsilon: 0.00010
+[2025-01-12 09:50:45] Episode 9340, Avg Reward: 233.52, Epsilon: 0.00010
+[2025-01-12 09:51:11] Episode 9350, Avg Reward: 216.91, Epsilon: 0.00010
+[2025-01-12 09:51:53] Episode 9360, Avg Reward: 209.65, Epsilon: 0.00010
+[2025-01-12 09:52:40] Episode 9370, Avg Reward: 230.66, Epsilon: 0.00010
+[2025-01-12 09:53:07] Episode 9380, Avg Reward: 236.35, Epsilon: 0.00010
+[2025-01-12 09:53:42] Episode 9390, Avg Reward: 229.59, Epsilon: 0.00010
+[2025-01-12 09:54:23] Saved checkpoint at episode 9400
+[2025-01-12 09:54:23] Episode 9400, Avg Reward: 238.01, Epsilon: 0.00010
+[2025-01-12 09:55:04] Episode 9410, Avg Reward: 253.66, Epsilon: 0.00010
+[2025-01-12 09:55:56] Episode 9420, Avg Reward: 274.30, Epsilon: 0.00010
+[2025-01-12 09:56:31] Episode 9430, Avg Reward: 278.33, Epsilon: 0.00010
+[2025-01-12 09:57:05] Episode 9440, Avg Reward: 255.72, Epsilon: 0.00010
+[2025-01-12 09:57:57] Episode 9450, Avg Reward: 277.68, Epsilon: 0.00010
+[2025-01-12 09:59:02] Episode 9460, Avg Reward: 297.18, Epsilon: 0.00010
+[2025-01-12 09:59:38] Episode 9470, Avg Reward: 289.27, Epsilon: 0.00010
+[2025-01-12 10:00:37] Episode 9480, Avg Reward: 316.08, Epsilon: 0.00010
+[2025-01-12 10:01:29] Episode 9490, Avg Reward: 329.23, Epsilon: 0.00010
+[2025-01-12 10:01:59] Saved checkpoint at episode 9500
+[2025-01-12 10:01:59] Episode 9500, Avg Reward: 320.19, Epsilon: 0.00010
+[2025-01-12 10:02:59] Episode 9510, Avg Reward: 337.38, Epsilon: 0.00010
+[2025-01-12 10:04:06] Episode 9520, Avg Reward: 350.29, Epsilon: 0.00010
+[2025-01-12 10:04:49] Episode 9530, Avg Reward: 354.34, Epsilon: 0.00010
+[2025-01-12 10:05:22] Episode 9540, Avg Reward: 353.44, Epsilon: 0.00010
+[2025-01-12 10:06:09] Episode 9550, Avg Reward: 347.33, Epsilon: 0.00010
+[2025-01-12 10:06:33] Episode 9560, Avg Reward: 314.12, Epsilon: 0.00010
+[2025-01-12 10:07:24] Episode 9570, Avg Reward: 326.20, Epsilon: 0.00010
+[2025-01-12 10:08:03] Episode 9580, Avg Reward: 308.31, Epsilon: 0.00010
+[2025-01-12 10:08:37] Episode 9590, Avg Reward: 293.56, Epsilon: 0.00010
+[2025-01-12 10:09:29] Saved checkpoint at episode 9600
+[2025-01-12 10:09:29] Episode 9600, Avg Reward: 310.02, Epsilon: 0.00010
+[2025-01-12 10:10:12] Episode 9610, Avg Reward: 295.08, Epsilon: 0.00010
+[2025-01-12 10:11:15] Episode 9620, Avg Reward: 291.05, Epsilon: 0.00010
+[2025-01-12 10:12:04] Episode 9630, Avg Reward: 296.98, Epsilon: 0.00010
+[2025-01-12 10:12:46] Episode 9640, Avg Reward: 304.01, Epsilon: 0.00010
+[2025-01-12 10:13:34] Episode 9650, Avg Reward: 305.37, Epsilon: 0.00010
+[2025-01-12 10:14:51] Episode 9660, Avg Reward: 349.49, Epsilon: 0.00010
+[2025-01-12 10:15:27] Episode 9670, Avg Reward: 339.13, Epsilon: 0.00010
+[2025-01-12 10:16:05] Episode 9680, Avg Reward: 338.54, Epsilon: 0.00010
+[2025-01-12 10:16:54] Episode 9690, Avg Reward: 352.01, Epsilon: 0.00010
+[2025-01-12 10:17:38] Saved checkpoint at episode 9700
+[2025-01-12 10:17:38] Episode 9700, Avg Reward: 345.65, Epsilon: 0.00010
+[2025-01-12 10:18:16] Episode 9710, Avg Reward: 343.73, Epsilon: 0.00010
+[2025-01-12 10:18:51] Episode 9720, Avg Reward: 320.79, Epsilon: 0.00010
+[2025-01-12 10:19:19] Episode 9730, Avg Reward: 303.00, Epsilon: 0.00010
+[2025-01-12 10:19:54] Episode 9740, Avg Reward: 297.13, Epsilon: 0.00010
+[2025-01-12 10:20:17] Episode 9750, Avg Reward: 277.47, Epsilon: 0.00010
+[2025-01-12 10:20:40] Episode 9760, Avg Reward: 232.71, Epsilon: 0.00010
+[2025-01-12 10:21:19] Episode 9770, Avg Reward: 233.99, Epsilon: 0.00010
+[2025-01-12 10:21:55] Episode 9780, Avg Reward: 234.31, Epsilon: 0.00010
+[2025-01-12 10:22:39] Episode 9790, Avg Reward: 228.87, Epsilon: 0.00010
+[2025-01-12 10:23:07] Saved checkpoint at episode 9800
+[2025-01-12 10:23:07] Episode 9800, Avg Reward: 215.06, Epsilon: 0.00010
+[2025-01-12 10:23:45] Episode 9810, Avg Reward: 213.60, Epsilon: 0.00010
+[2025-01-12 10:24:20] Episode 9820, Avg Reward: 215.77, Epsilon: 0.00010
+[2025-01-12 10:24:55] Episode 9830, Avg Reward: 221.78, Epsilon: 0.00010
+[2025-01-12 10:25:14] Episode 9840, Avg Reward: 208.83, Epsilon: 0.00010
+[2025-01-12 10:25:53] Episode 9850, Avg Reward: 222.30, Epsilon: 0.00010
+[2025-01-12 10:26:31] Episode 9860, Avg Reward: 235.30, Epsilon: 0.00010
+[2025-01-12 10:27:16] Episode 9870, Avg Reward: 239.47, Epsilon: 0.00010
+[2025-01-12 10:27:59] Episode 9880, Avg Reward: 243.64, Epsilon: 0.00010
+[2025-01-12 10:28:51] Episode 9890, Avg Reward: 249.50, Epsilon: 0.00010
+[2025-01-12 10:29:24] Saved checkpoint at episode 9900
+[2025-01-12 10:29:24] Episode 9900, Avg Reward: 254.85, Epsilon: 0.00010
+[2025-01-12 10:29:47] Episode 9910, Avg Reward: 243.58, Epsilon: 0.00010
+[2025-01-12 10:30:15] Episode 9920, Avg Reward: 237.74, Epsilon: 0.00010
+[2025-01-12 10:30:44] Episode 9930, Avg Reward: 232.72, Epsilon: 0.00010
+[2025-01-12 10:31:15] Episode 9940, Avg Reward: 242.23, Epsilon: 0.00010
+[2025-01-12 10:31:44] Episode 9950, Avg Reward: 232.19, Epsilon: 0.00010
+[2025-01-12 10:32:23] Episode 9960, Avg Reward: 231.53, Epsilon: 0.00010
+[2025-01-12 10:32:46] Episode 9970, Avg Reward: 214.24, Epsilon: 0.00010
+[2025-01-12 10:33:11] Episode 9980, Avg Reward: 199.84, Epsilon: 0.00010
+[2025-01-12 10:33:41] Episode 9990, Avg Reward: 182.87, Epsilon: 0.00010

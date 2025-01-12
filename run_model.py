@@ -17,7 +17,7 @@ def run_model():
     
     # Create and load the trained model
     model = DQN(state_shape, n_actions).to(device)
-    model.load_state_dict(torch.load('best_model.pth', map_location=device))
+    model.load_state_dict(torch.load('checkpoints/best_model.pth', map_location=device))
     model.eval()  # Set to evaluation mode
     
     while True:
@@ -43,6 +43,15 @@ def run_model():
             
             # Perform action
             observation, reward, terminated, truncated, info = env.step(action)
+            
+            # Use same reward system as in main.py
+            if terminated:
+                reward = -1.0
+            elif info.get('score', 0) > 0:
+                reward = 1.0
+            else:
+                reward = 0.1
+                
             total_reward += reward
             
             # Break if 'q' is pressed
