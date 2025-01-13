@@ -5,8 +5,14 @@ import cv2
 import numpy as np
 from model import DQN
 from main import preprocess_frame  # Reusing the preprocess_frame function
+from datetime import datetime  # Add this import
 
 def run_model():
+    # Initialize logging
+    log_file = open('evaluation_log.txt', 'a')
+    start_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_file.write(f"\n\n=== New Evaluation Session - {start_time} ===\n")
+    
     # Initialize environment
     env = gym.make('FlappyBird-v0', render_mode='rgb_array')
     
@@ -20,7 +26,9 @@ def run_model():
     model.load_state_dict(torch.load('checkpoints/best_model.pth', map_location=device))
     model.eval()  # Set to evaluation mode
     
+    episode = 0
     while True:
+        episode += 1
         observation, info = env.reset()
         total_reward = 0
         
@@ -43,25 +51,21 @@ def run_model():
             
             # Perform action
             observation, reward, terminated, truncated, info = env.step(action)
-            
-            # Use same reward system as in main.py
-            if terminated:
-                reward = -1.0
-            elif info.get('score', 0) > 0:
-                reward = 1.0
-            else:
-                reward = 0.1
-                
             total_reward += reward
-            
+        
             # Break if 'q' is pressed
             if cv2.waitKey(20) & 0xFF == ord('q'):
+                log_file.close()
                 env.close()
                 cv2.destroyAllWindows()
                 return
             
             if terminated or truncated:
-                print(f"Game Over! Total Reward: {total_reward}")
+                timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                log_message = f"[{timestamp}] Episode {episode} - Total Reward: {total_reward:.2f}"
+                print(f"Game Over! {log_message}")
+                log_file.write(log_message + '\n')
+                log_file.flush()
                 break
 
 if __name__ == "__main__":

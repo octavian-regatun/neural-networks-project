@@ -91,7 +91,7 @@ def main():
     epsilon_values = []
     best_reward = float('-inf')
 
-    for episode in range(10000):  # Number of episodes
+    for episode in range(50000):  # Number of episodes
         observation, info = env.reset()
         episode_reward = 0
         
@@ -129,6 +129,11 @@ def main():
             
             if terminated or truncated:
                 episode_rewards.append(episode_reward)
+                # Log individual episode reward
+                timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                log_file.write(f"[{timestamp}] Episode {episode} - Reward: {episode_reward:.2f}\n")
+                log_file.flush()
+                
                 if episode_reward > best_reward:
                     best_reward = episode_reward
                     torch.save(agent.policy_net.state_dict(), 'checkpoints/best_model.pth')
